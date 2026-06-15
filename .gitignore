@@ -1,0 +1,17 @@
+﻿# Python 缓存
+__pycache__/
+*.pyc
+
+# 输出目录（生成的日报都是运行时产物，不需要提交）
+output/
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 日志
+*.log
