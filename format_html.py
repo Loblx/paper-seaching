@@ -34,7 +34,7 @@ def gen_html(data):
     T = f'''<!DOCTYPE html>
 <html lang="zh-CN">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
-<title>AI+酶工程 每日文献 {date_tag}</title>
+<title>天然产物 × P450/CPR × AI酶工程 每日文献 {date_tag}</title>
 <style>
 *{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:#f4f6f9;color:#1a2332;font-size:15px;line-height:1.5;-webkit-text-size-adjust:100%}}
@@ -75,8 +75,8 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Mic
 @media(prefers-color-scheme:dark){{body{{background:#1a1a2e;color:#e4e4e7}}.pc,.ov{{background:#16213e}}.ps .pt a{{color:#e4e4e7}}.ab{{background:#1a1a2e;border-left-color:#3b82f6}}.ab p{{color:#c4c4c7}}.t{{background:#2a2a3e;color:#a4a4a7}}}}
 </style></head>
 <body><div class="hd">
-<h1>AI+酶工程 每日文献速递</h1>
-<div class="sub">自动检索 OpenAlex · AI/机器学习 × 酶工程/蛋白质工程</div>
+<h1>天然产物与P450工程 每日文献速递</h1>
+<div class="sub">截短侧耳素/紫杉醇 · P450/CPR · 酵母底盘 · AI酶工程</div>
 <div class="s">
 <div class="si"><b>{date_str}</b>日期</div>
 <div class="si"><b>{total}</b>检索</div>
@@ -132,7 +132,7 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Mic
 
     T += f'''<div class="ft">
 <p>生成: {today.strftime("%Y-%m-%d %H:%M")} | 数据: <a href="https://openalex.org" style="color:#1a73e8">OpenAlex</a></p>
-<p style="margin-top:2px">AI+酶工程 每日文献推送</p>
+<p style="margin-top:2px">天然产物与P450工程 每日文献推送</p>
 </div></div></body></html>'''
     return T
 

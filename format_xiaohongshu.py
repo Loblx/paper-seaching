@@ -24,7 +24,7 @@ def gen_posts(data):
     total = data.get("total_works", 0)
 
     posts = []
-    posts.append(f"【AI+酶工程 每日文献速递 {date_tag}】")
+    posts.append(f"【天然产物与P450工程 每日文献速递 {date_tag}】")
     posts.append(f"📊 今日从 OpenAlex 检索 {total} 篇论文，精选 {len(papers)} 篇推荐")
     posts.append("")
     posts.append("─" * 25)
@@ -74,7 +74,7 @@ def gen_posts(data):
             posts.append("")
 
     posts.append("")
-    posts.append("💬 关注我，每天推送 AI+酶工程 最新论文进展！")
+    posts.append("💬 关注我，每天推送天然产物、P450/CPR与AI酶工程的近期论文！")
     posts.append("🎯 数据来源：OpenAlex | 翻译：DeepSeek")
     return "\n".join(posts)
 
