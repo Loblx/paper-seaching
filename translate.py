@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/env python3
-"""translate.py — 使用 DeepSeek API 将论文摘要从英文翻译为中文"""
+"""translate.py — 使用 DeepSeek API 生成中文标题、摘要和相关性说明"""
 
-import json, logging, os, sys, time
+import json, logging, os, re, sys, time
 from datetime import datetime
 from openai import OpenAI
 
@@ -16,13 +16,21 @@ DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_MODEL = os.environ.get("DEEPSEEK_MODEL", "deepseek-chat")
 API_DELAY = 1.0  # 每次调用间隔，避免限流
 
-SYSTEM_PROMPT = """你是一个专业的学术论文翻译助手。你的任务是将英文论文摘要翻译成流畅、准确的中文。
+SYSTEM_PROMPT = """你是一个专业的学术文献简报编辑。你的任务是为天然产物、P450/CPR、酵母底盘和AI酶工程方向生成正式、准确、便于快速阅读的中文文献信息。
 要求：
-1. 保持学术翻译的严谨性和准确性
-2. 专业术语翻译要准确，如 "machine learning" → "机器学习"，"enzyme" → "酶"
-3. 中文表达要自然流畅，符合中文阅读习惯
-4. 保留原文中的数字、缩写、专有名词（如 ProteinMPNN、AlphaFold 等）
-5. 只输出翻译结果，不要添加任何解释或额外内容"""
+1. 保持学术表达严谨、正式、准确
+2. 专业术语翻译准确，例如 cytochrome P450 译为“细胞色素 P450”，enzyme engineering 译为“酶工程”
+3. 保留必要缩写、专有名词、数字和物种名
+4. 不使用口语化表达，不使用“值得看看”“点开”等措辞
+5. 只输出 JSON，不要输出 Markdown 或解释文字
+
+JSON 字段：
+{
+  "title_cn": "中文标题",
+  "abstract_cn": "完整中文摘要",
+  "summary_cn_short": "2-3句正式中文内容摘要",
+  "relevance_cn": "1-2句说明该文献与P450/CPR、底盘细胞、天然产物或AI酶工程的相关性"
+}"""
 
 
 def load_latest_raw():
@@ -36,23 +44,47 @@ def load_latest_raw():
         return json.load(f), p
 
 
-def translate_abstract(client, abstract_text):
-    """调用 DeepSeek API 翻译单篇摘要"""
-    if not abstract_text or len(abstract_text.strip()) < 10:
-        return ""
+def extract_json(text):
+    if not text:
+        return None
+    text = text.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+    match = re.search(r"\{.*\}", text, flags=re.S)
+    if match:
+        text = match.group(0)
     try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return None
+
+
+def make_brief(client, title, abstract_text, topics):
+    """调用 DeepSeek API 生成单篇文献简报字段"""
+    if not title and not abstract_text:
+        return {}
+    try:
+        user_content = {
+            "title_en": title or "",
+            "abstract_en": abstract_text or "",
+            "research_topics": topics or [],
+        }
         resp = client.chat.completions.create(
             model=DEEPSEEK_MODEL,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": f"请将以下英文论文摘要翻译为中文：\n\n{abstract_text}"}
+                {"role": "user", "content": "请根据以下论文信息生成 JSON：\n" + json.dumps(user_content, ensure_ascii=False)}
             ],
             temperature=0.3,
             max_tokens=2048,
         )
-        return resp.choices[0].message.content.strip()
+        result = extract_json(resp.choices[0].message.content)
+        if not isinstance(result, dict):
+            raise ValueError("模型未返回有效 JSON")
+        return result
     except Exception as e:
-        log.warning(f"翻译失败: {e}")
+        log.warning(f"简报生成失败: {e}")
         return None
 
 
@@ -80,7 +112,7 @@ def main():
         base_url="https://api.deepseek.com"
     )
 
-    # 逐篇翻译
+    # 逐篇生成文献简报
     translated = 0
     skipped = 0
     failed = 0
@@ -88,20 +120,28 @@ def main():
         title = paper.get("title", "N/A")[:60]
         abstract = paper.get("abstract", "")
 
-        # 跳过已有翻译的
-        if paper.get("abstract_cn"):
-            log.info(f"  [{i+1}/{len(papers)}] 已有翻译，跳过: {title}")
+        # 跳过已有完整简报字段的论文
+        if paper.get("title_cn") and paper.get("abstract_cn") and paper.get("summary_cn_short"):
+            log.info(f"  [{i+1}/{len(papers)}] 已有简报，跳过: {title}")
             skipped += 1
             continue
 
-        log.info(f"  [{i+1}/{len(papers)}] 翻译中: {title}")
-        result = translate_abstract(client, abstract)
+        log.info(f"  [{i+1}/{len(papers)}] 生成简报: {title}")
+        result = make_brief(client, paper.get("title", ""), abstract, paper.get("research_topics", []))
 
         if result is not None:
-            paper["abstract_cn"] = result
+            paper["title_en"] = paper.get("title", "")
+            paper["title_cn"] = result.get("title_cn", "").strip()
+            paper["abstract_cn"] = result.get("abstract_cn", "").strip()
+            paper["summary_cn_short"] = result.get("summary_cn_short", "").strip()
+            paper["relevance_cn"] = result.get("relevance_cn", "").strip()
             translated += 1
         else:
+            paper["title_en"] = paper.get("title", "")
+            paper["title_cn"] = ""
             paper["abstract_cn"] = "[翻译失败]"
+            paper["summary_cn_short"] = ""
+            paper["relevance_cn"] = ""
             failed += 1
 
         # 控制调用频率
@@ -121,7 +161,7 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    log.info(f"翻译完成: 新增{translated}, 跳过{skipped}, 失败{failed}")
+    log.info(f"简报生成完成: 新增{translated}, 跳过{skipped}, 失败{failed}")
     log.info(f"已保存: {output_path}")
     print(f"[OK] 翻译结果 -> {output_path}")
 
