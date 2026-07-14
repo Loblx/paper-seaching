@@ -38,11 +38,11 @@ def send_email(html_content, date_tag, is_test=False):
     if not QQ_EMAIL or not QQ_EMAIL_AUTH_CODE or not RECIPIENT_EMAIL:
         log.error("环境变量未设置"); return False
 
-    subject = f"[AI+酶工程] 每日文献速递 {date_tag}"
+    subject = f"[天然产物·P450·AI酶工程] 每日文献速递 {date_tag}"
     if is_test: subject = f"[测试] {subject}"
 
     msg = MIMEMultipart("mixed")
-    msg["From"] = formataddr((str(Header("AI+酶工程 文献推送", "utf-8")), QQ_EMAIL))
+    msg["From"] = formataddr((str(Header("天然产物与P450工程 文献推送", "utf-8")), QQ_EMAIL))
     msg["To"] = RECIPIENT_EMAIL
     msg["Subject"] = Header(subject, "utf-8")
 

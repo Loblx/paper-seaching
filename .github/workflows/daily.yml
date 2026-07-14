@@ -1,5 +1,8 @@
 ﻿name: 每日文献推送
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # UTC 02:00 = 北京时间 10:00
@@ -36,3 +39,11 @@ jobs:
 
       - name: 运行全流程
         run: python run_all.py
+
+      - name: Persist delivered-paper history
+        run: |
+          git config user.name "paper-seaching-bot"
+          git config user.email "41898282+paper-seaching-bot@users.noreply.github.com"
+          git add data/paper_history.json
+          git diff --cached --quiet || git commit -m "chore(history): record delivered papers"
+          git push
