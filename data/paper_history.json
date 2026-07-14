@@ -1,4 +1,55 @@
 {
-  "updated_at": null,
-  "papers": []
+  "updated_at": "2026-07-14T13:29:50.914860",
+  "papers": [
+    {
+      "key": "doi:10.3390/plants15111741",
+      "sent_on": "2026-07-14",
+      "title": "Toward Sustainable Paclitaxel Bioproduction: Plant Biology, Biosynthesis and Platform Engineering"
+    },
+    {
+      "key": "doi:10.3390/molecules31122140",
+      "sent_on": "2026-07-14",
+      "title": "Insights into the Cytochrome P450 Monooxygenase Superfamily in Kadsura heteroclita (Xuetong)"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c07454",
+      "sent_on": "2026-07-14",
+      "title": "Discovery of Pyranoquinolone Diterpenoids Biosynthesized through Oxidative Indole Rearrangement and Atypical Terpene Cyclization"
+    },
+    {
+      "key": "doi:10.1186/s40643-026-01096-3",
+      "sent_on": "2026-07-14",
+      "title": "Artificial intelligence and automation in enzyme engineering: evolution, advances, and future perspectives"
+    },
+    {
+      "key": "doi:10.1186/s40643-026-01094-5",
+      "sent_on": "2026-07-14",
+      "title": "Engineered microorganisms unlock a new era of diterpenoid biomanufacturing: recent advances and future perspectives"
+    },
+    {
+      "key": "doi:10.22452/stem.vol7no1.1",
+      "sent_on": "2026-07-14",
+      "title": "&lt;b&gt;Reengineering&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;b&gt;Zingiber zerumbet&lt;/b&gt;&lt;b&gt;: Recent Advances in Zerumbone Biosynthesis and Synthetic Biology&lt;/b&gt;&lt;b&gt;&lt;/b&gt;"
+    },
+    {
+      "key": "doi:10.1021/jacsau.6c00535",
+      "sent_on": "2026-07-14",
+      "title": "Early- and Late-Stage Chemoenzymatic Functionalization of Steroid-Inspired Compounds"
+    },
+    {
+      "key": "doi:10.3389/fmicb.2026.1847633",
+      "sent_on": "2026-07-14",
+      "title": "From fungal diversity to antimicrobial innovation: the potential of biotransformation in the era of resistance"
+    },
+    {
+      "key": "doi:10.1002/advs.76426",
+      "sent_on": "2026-07-14",
+      "title": "Multi‐tissue Metabolic GWAS and Drought‐Responsive Multi‐omics Reveal the Genetic Basis of the Quinoa Metabolome"
+    },
+    {
+      "key": "doi:10.1021/acs.biochem.6c00230",
+      "sent_on": "2026-07-14",
+      "title": "Discovery of Bacterial Unspecific Peroxygenases"
+    }
+  ]
 }
