@@ -1,7 +1,7 @@
 ﻿#!/usr/bin/env python3
 """send_email.py — 通过 QQ邮箱 SMTP 发送日报邮件（含微信/小红书附件）"""
 
-import logging, os, smtplib, sys
+import json, logging, os, smtplib, sys
 from datetime import datetime
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
@@ -28,29 +28,74 @@ def load_latest(prefix, suffix):
     with open(p, "r", encoding="utf-8") as f: return f.read(), os.path.basename(p)
 
 
+def load_latest_json():
+    for prefix in ["papers_translated_", "papers_raw_"]:
+        fs = [f for f in os.listdir(OUTPUT_DIR) if f.startswith(prefix) and f.endswith(".json")]
+        if fs:
+            p = os.path.join(OUTPUT_DIR, max(fs))
+            with open(p, "r", encoding="utf-8") as f:
+                return json.load(f)
+    return {"papers": []}
+
+
 def make_attachment(content, filename):
     part = MIMEText(content, "plain", "utf-8")
     part.add_header("Content-Disposition", "attachment", filename=("utf-8", "", filename))
     return part
 
 
+def clean_date(value):
+    if not value:
+        return "日期信息不完整"
+    return value[:10] if len(value) >= 10 else "日期信息不完整"
+
+
+def build_plain_text(date_tag):
+    data = load_latest_json()
+    papers = data.get("papers", [])
+    lines = [
+        "天然产物与 P450 工程每日文献简报",
+        f"推送日期：{date_tag}",
+        "",
+        f"本期共筛选文献 {len(papers)} 篇，覆盖 P450/CPR、酵母底盘、天然产物生物合成及 AI 辅助酶工程等方向。",
+        "",
+    ]
+    for i, paper in enumerate(papers, 1):
+        title_cn = paper.get("title_cn") or "中文标题待补充"
+        title_en = paper.get("title_en") or paper.get("title") or "English title unavailable"
+        summary = paper.get("summary_cn_short") or "该文献摘要信息尚未完成结构化处理，请查看 HTML 版或原文链接。"
+        relevance = paper.get("relevance_cn") or "该文献与当前研究方向的具体关联仍需进一步判断。"
+        url = paper.get("url") or (f"https://doi.org/{paper.get('doi')}" if paper.get("doi") else "")
+        lines.extend([
+            f"{i:02d}",
+            f"见刊日期：{clean_date(paper.get('publication_date'))}",
+            f"中文标题：{title_cn}",
+            f"English Title: {title_en}",
+            f"内容摘要：{summary}",
+            f"研究相关性：{relevance}",
+        ])
+        if url:
+            lines.append(f"原文链接：{url}")
+        lines.append("")
+    lines.append("本邮件由自动化文献检索与摘要系统生成。")
+    return "\n".join(lines)
+
+
 def send_email(html_content, date_tag, is_test=False):
     if not QQ_EMAIL or not QQ_EMAIL_AUTH_CODE or not RECIPIENT_EMAIL:
         log.error("环境变量未设置"); return False
 
-    subject = f"[天然产物·P450·AI酶工程] 每日文献速递 {date_tag}"
+    subject = f"[每日文献简报] 天然产物与 P450 工程方向精选文献 {date_tag}"
     if is_test: subject = f"[测试] {subject}"
 
     msg = MIMEMultipart("mixed")
-    msg["From"] = formataddr((str(Header("天然产物与P450工程 文献推送", "utf-8")), QQ_EMAIL))
+    msg["From"] = formataddr((str(Header("天然产物与 P450 工程文献简报", "utf-8")), QQ_EMAIL))
     msg["To"] = RECIPIENT_EMAIL
     msg["Subject"] = Header(subject, "utf-8")
 
     # 正文部分（plain + html）
     body = MIMEMultipart("alternative")
-    body.attach(MIMEText(
-        f"AI+酶工程 每日文献速递 {date_tag}\n\n请查看邮件HTML版获取完整日报。\n本邮件附件包含微信公众号和小红书文案。\n由自动推送系统生成",
-        "plain", "utf-8"))
+    body.attach(MIMEText(build_plain_text(date_tag), "plain", "utf-8"))
     body.attach(MIMEText(html_content, "html", "utf-8"))
     msg.attach(body)
 
