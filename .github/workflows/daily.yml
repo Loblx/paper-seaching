@@ -5,8 +5,8 @@ permissions:
 
 on:
   schedule:
-    # UTC 02:00 = 北京时间 10:00
-    - cron: '0 2 * * *'
+    # Observed GitHub schedule delay is about 7.5h; UTC 18:30 targets Beijing next-day morning around 10:00
+    - cron: '30 18 * * *'
   workflow_dispatch:
     # 支持手动触发测试
 
