@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T09:30:48.827305",
+  "updated_at": "2026-07-15T19:46:04.477650",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -100,6 +100,56 @@
       "key": "doi:10.26599/fshw.2026.9251023",
       "sent_on": "2026-07-15",
       "title": "Cistanches Herba in disease prevention and health promotion: A role of the gut microbiota"
+    },
+    {
+      "key": "doi:10.3390/ijms27041979",
+      "sent_on": "2026-07-15",
+      "title": "The Ultimate Micro-Exon: A Single Nucleotide Exon Is Required to Assemble Cytochrome P450 CYP621A Orthologs from Fusarium Species"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-74020-0",
+      "sent_on": "2026-07-15",
+      "title": "Real-time electrical monitoring of enzymatic catalytic dynamics at the single-molecule level"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-70157-0",
+      "sent_on": "2026-07-15",
+      "title": "Discovery and engineering of bacterial P450s for C-14 hydroxylation in ent-kaurane diterpenoids"
+    },
+    {
+      "key": "doi:10.1038/s41598-026-61628-x",
+      "sent_on": "2026-07-15",
+      "title": "Computational evaluation of the interactions of polycyclic aromatic hydrocarbons with a human receptor via DFT and molecular docking"
+    },
+    {
+      "key": "doi:10.3390/ijms27052444",
+      "sent_on": "2026-07-15",
+      "title": "Toward Sustainable Testosterone Manufacturing: Green Chemistry and Microbial Biotransformation Approaches"
+    },
+    {
+      "key": "doi:10.3389/fctls.2026.1869705",
+      "sent_on": "2026-07-15",
+      "title": "Enhancing CYP4B1 catalytic performance through an orthologous sequence-guided engineering approach"
+    },
+    {
+      "key": "doi:10.11113/bioprocessing.v5n1.68",
+      "sent_on": "2026-07-15",
+      "title": "Fungi as Agents of Hydrocarbon Biodegradation: A Review"
+    },
+    {
+      "key": "doi:10.1007/s00449-026-03347-1",
+      "sent_on": "2026-07-15",
+      "title": "10 years of CRISPR/CAS genomic engineering in Yarrowia lipolytica"
+    },
+    {
+      "key": "doi:10.3390/catal16060569",
+      "sent_on": "2026-07-15",
+      "title": "Bio-Inspired and Enzyme-Mimicking Catalysts for Sustainable Oxidation and Hydrogenation Reactions"
+    },
+    {
+      "key": "doi:10.1007/s13318-026-00997-0",
+      "sent_on": "2026-07-15",
+      "title": "Drug–Drug Interactions in Recently Approved Antibacterials: A Mini Review"
     }
   ]
 }
