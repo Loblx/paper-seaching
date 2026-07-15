@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T09:20:57.117532",
+  "updated_at": "2026-07-15T09:30:48.827305",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -50,6 +50,56 @@
       "key": "doi:10.1021/acs.biochem.6c00230",
       "sent_on": "2026-07-14",
       "title": "Discovery of Bacterial Unspecific Peroxygenases"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1833614",
+      "sent_on": "2026-07-15",
+      "title": "Diterpenoids in medicinal plants: structure, distribution, biological activities, biosynthesis, and bioengineering prospects"
+    },
+    {
+      "key": "doi:10.1080/10242422.2026.2664093",
+      "sent_on": "2026-07-15",
+      "title": "Stereoselective oxyfunctionalization of steroids by designed peroxygenase mutants: Bridging batch screening and continuous operation"
+    },
+    {
+      "key": "doi:10.1007/s13659-025-00588-7",
+      "sent_on": "2026-07-15",
+      "title": "De novo synthesis of plant polyketide plumbagin in yeast: a platform for sustainable production of naphthoquinones"
+    },
+    {
+      "key": "doi:10.1002/biot.70232",
+      "sent_on": "2026-07-15",
+      "title": "Engineering <i>Yarrowia Lipolytica</i> for De Novo Biosynthesis of Abscisic Acid"
+    },
+    {
+      "key": "doi:10.64898/2026.04.15.718773",
+      "sent_on": "2026-07-15",
+      "title": "Discovery of the rosalexin pathway expands the modular network of maize diterpenoid chemical defenses"
+    },
+    {
+      "key": "doi:10.62460/tbps/2026.006",
+      "sent_on": "2026-07-15",
+      "title": "MULTI-OMICS-ENABLED BREEDING OF MEDICINAL PLANTS FOR ENHANCED SECONDARY METABOLITE PRODUCTION"
+    },
+    {
+      "key": "doi:10.64898/2026.03.21.713420",
+      "sent_on": "2026-07-15",
+      "title": "FoTO1 orchestrates Taxol biosynthesis through catalytic and non-catalytic mechanisms"
+    },
+    {
+      "key": "doi:10.1128/spectrum.01686-25",
+      "sent_on": "2026-07-15",
+      "title": "Integrative analysis of metabolome and transcriptome reveals new insights into the formation and regulation of major components of <i>G. leucocontextum</i> and <i>G. lucidum</i>"
+    },
+    {
+      "key": "doi:10.3390/fermentation12010032",
+      "sent_on": "2026-07-15",
+      "title": "Microbial Cell Factories for Phenylethanoid Glycosides: A Review on Engineering Strategies and Perspectives"
+    },
+    {
+      "key": "doi:10.26599/fshw.2026.9251023",
+      "sent_on": "2026-07-15",
+      "title": "Cistanches Herba in disease prevention and health promotion: A role of the gut microbiota"
     }
   ]
 }
