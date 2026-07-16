@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T19:46:04.477650",
+  "updated_at": "2026-07-16T19:41:25.194268",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -150,6 +150,56 @@
       "key": "doi:10.1007/s13318-026-00997-0",
       "sent_on": "2026-07-15",
       "title": "Drug–Drug Interactions in Recently Approved Antibacterials: A Mini Review"
+    },
+    {
+      "key": "doi:10.54254/2753-8818/2026.hz35307",
+      "sent_on": "2026-07-16",
+      "title": "From Traditional Protein Engineering to AI-Driven Design: Principles, Methods, and Applications"
+    },
+    {
+      "key": "doi:10.1021/jacsau.6c00500",
+      "sent_on": "2026-07-16",
+      "title": "A Machine Learning-Based Genome Mining Approach Reveals Unprecedented Biarylitide Diversity"
+    },
+    {
+      "key": "doi:10.64898/2026.07.10.737789",
+      "sent_on": "2026-07-16",
+      "title": "Influence of Primary Coordination Sphere on Anion Rebound Selectivity in Nonheme Fe Enzyme-Catalyzed C(sp3)-H Functionalization: A Comparative Experimental and Computational Study of EgtB and ACCO"
+    },
+    {
+      "key": "doi:10.3390/ijms27104245",
+      "sent_on": "2026-07-16",
+      "title": "Advances in Functional Genomics and Biotechnology for Enhancing Therapeutic Potential of Medicinal Plants"
+    },
+    {
+      "key": "doi:10.1101/2025.11.29.689641",
+      "sent_on": "2026-07-16",
+      "title": "Full-length structure of CPR-containing self-sufficient cytochrome P450"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15001340/v1",
+      "sent_on": "2026-07-16",
+      "title": "Connecting Ionic Liquid Biodegradation to Structure, Dynamics, and Thermodynamics of Ionic Liquid-Cytochrome P450 Complexes"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-72163-8",
+      "sent_on": "2026-07-16",
+      "title": "Toward sustainable food preservatives: high-level production of sorbic acid in engineered Saccharomyces cerevisiae"
+    },
+    {
+      "key": "doi:10.1080/17518253.2026.2668903",
+      "sent_on": "2026-07-16",
+      "title": "Beyond antitumor activity and from lichenized fungi: advances in the production, bioactivities, synthesis, and biosynthesis of usnic acid and its structural derivatives"
+    },
+    {
+      "key": "doi:10.1021/acs.jafc.5c17368",
+      "sent_on": "2026-07-16",
+      "title": "Multiomics Analysis across the Life Cycle Identifies Zn <sub>2</sub> Cys <sub>6</sub> _61 as a Target for Enhancing Triterpenoid Production in <i>Ganoderma lucidum</i>"
+    },
+    {
+      "key": "doi:10.3390/molecules31101638",
+      "sent_on": "2026-07-16",
+      "title": "Plastic-Degrading Microorganisms: Biodegradation Pathways and Habitat Origins"
     }
   ]
 }
