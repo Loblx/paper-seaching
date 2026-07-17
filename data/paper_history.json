@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:41:25.194268",
+  "updated_at": "2026-07-17T19:39:58.141952",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -200,6 +200,56 @@
       "key": "doi:10.3390/molecules31101638",
       "sent_on": "2026-07-16",
       "title": "Plastic-Degrading Microorganisms: Biodegradation Pathways and Habitat Origins"
+    },
+    {
+      "key": "doi:10.3390/molecules31132367",
+      "sent_on": "2026-07-17",
+      "title": "Metabolic Engineering for Gibberellic Acid Production in Fusarium fujikuroi: Advances and Perspectives"
+    },
+    {
+      "key": "doi:10.3390/fermentation12040182",
+      "sent_on": "2026-07-17",
+      "title": "Recent Advances in Natural Product Biosynthesis and Yield Improvement Strategies Using Yarrowia lipolytica"
+    },
+    {
+      "key": "doi:10.1080/21501203.2026.2620236",
+      "sent_on": "2026-07-17",
+      "title": "Sesquiterpene synthases from <i>Inonotus obliquus</i> : functional characterization and β-farnesene production"
+    },
+    {
+      "key": "doi:10.3390/ijms27093939",
+      "sent_on": "2026-07-17",
+      "title": "Yeast-Mediated Plastic Biodegradation"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15001729/v1",
+      "sent_on": "2026-07-17",
+      "title": "How Fe(II)/2-Oxoglutarate Oxygenase Chooses Chlorination Over Hydroxylation: Electric Field-Driven Ligand Exchange Governs C–Cl Formation"
+    },
+    {
+      "key": "doi:10.1016/j.xplc.2026.101830",
+      "sent_on": "2026-07-17",
+      "title": "Engineering Salvia miltiorrhiza hairy roots as a scalable platform for high-yield production of paclitaxel and ginsenoside precursors"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15001057/v1",
+      "sent_on": "2026-07-17",
+      "title": "Site-Selective and Stereoselective C(sp 3 )−H Pyridomethylation and Pyrimidomethylation of N-Heterocycles"
+    },
+    {
+      "key": "doi:10.3390/molecules30183673",
+      "sent_on": "2026-07-17",
+      "title": "The Activation of Cytochrome P450 2C9 Is Facilitated by the Coenzyme Forms of Vitamin B2"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1771802",
+      "sent_on": "2026-07-17",
+      "title": "Productive chaos and precision engineering: decoupling discovery from manufacturing to revolutionize plant-inspired therapeutics"
+    },
+    {
+      "key": "doi:10.3390/app16031615",
+      "sent_on": "2026-07-17",
+      "title": "Submerged Agitated Cultures of Edible Ascomycetes and Basidiomycetes Grown on Carbon-Rich Waste Streams: Mycelial Mass Production and Volatile Compound Analysis"
     }
   ]
 }
