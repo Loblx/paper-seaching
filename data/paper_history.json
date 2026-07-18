@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T19:39:58.141952",
+  "updated_at": "2026-07-18T19:41:45.886353",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -250,6 +250,56 @@
       "key": "doi:10.3390/app16031615",
       "sent_on": "2026-07-17",
       "title": "Submerged Agitated Cultures of Edible Ascomycetes and Basidiomycetes Grown on Carbon-Rich Waste Streams: Mycelial Mass Production and Volatile Compound Analysis"
+    },
+    {
+      "key": "doi:10.1016/j.synbio.2026.06.004",
+      "sent_on": "2026-07-18",
+      "title": "Engineering nonconventional yeasts to produce carboxylic acids: Advances and Prospects"
+    },
+    {
+      "key": "doi:10.1007/s44307-026-00108-9",
+      "sent_on": "2026-07-18",
+      "title": "The potential of metabolic engineering for sustainable phytosterol production"
+    },
+    {
+      "key": "doi:10.3390/molecules31071206",
+      "sent_on": "2026-07-18",
+      "title": "From Phytotoxin to Cell-Death Probe: Ophiobolin A and Related Sesterterpenoids in Membrane Stress and Non-Apoptotic Cell Death"
+    },
+    {
+      "key": "doi:10.3389/fmicb.2026.1764309",
+      "sent_on": "2026-07-18",
+      "title": "The global regulator LaeA controls expression of genes involved in diverse primary and secondary metabolites biosynthesis and their secretion in fungi"
+    },
+    {
+      "key": "doi:10.1186/s44314-026-00038-9",
+      "sent_on": "2026-07-18",
+      "title": "Harnessing the potential of basidiomycetes for sustainable degradation of plastics and catalytic upcycling"
+    },
+    {
+      "key": "doi:10.3390/pr13113746",
+      "sent_on": "2026-07-18",
+      "title": "Sustainable Production of Alternative Proteins from Basidiomycetes: Valorization of Mycelial and Fruiting Body Biomass"
+    },
+    {
+      "key": "doi:10.1021/acsmeasuresciau.5c00129",
+      "sent_on": "2026-07-18",
+      "title": "Linking Nanoscale Film Properties to Electrochemical Response in Cytochrome P450 Membrane Enzyme Films"
+    },
+    {
+      "key": "doi:10.3389/fbioe.2025.1716709",
+      "sent_on": "2026-07-18",
+      "title": "Beyond pigments and perfumes: engineering in the carotenoid and apocarotenoid spectrum, novel enzymes, and synthetic biology strategies"
+    },
+    {
+      "key": "doi:10.3390/ijms27010509",
+      "sent_on": "2026-07-18",
+      "title": "Hybrid Genome Assembly and Annotation of the Basidiomycete Fungus Candolleomyces candolleanus Strain CMU-8613 Using a Cost-Effective Iterative Pipeline"
+    },
+    {
+      "key": "doi:10.1039/d5cs00585j",
+      "sent_on": "2026-07-18",
+      "title": "Radical enzymatic peptide cyclization in natural product biosynthesis"
     }
   ]
 }
