@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T19:41:45.886353",
+  "updated_at": "2026-07-19T19:41:02.741060",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -300,6 +300,21 @@
       "key": "doi:10.1039/d5cs00585j",
       "sent_on": "2026-07-18",
       "title": "Radical enzymatic peptide cyclization in natural product biosynthesis"
+    },
+    {
+      "key": "doi:10.1016/j.synbio.2026.05.012",
+      "sent_on": "2026-07-19",
+      "title": "Systematic enzyme and cofactor engineering for efficient ursolic acid biosynthesis in Yarrowia lipolytica"
+    },
+    {
+      "key": "doi:10.1590/1678-4685-gmb-2025-0199",
+      "sent_on": "2026-07-19",
+      "title": "All you need is fungi: Exploring secondary metabolites as a source of novel amoebicidal agents"
+    },
+    {
+      "key": "doi:10.1016/j.jbc.2025.110792",
+      "sent_on": "2026-07-19",
+      "title": "Redox partner adrenodoxin induces substrate binding to steroidogenic cytochrome P450 11B2 and 11A1 by promoting a conformational change"
     }
   ]
 }
