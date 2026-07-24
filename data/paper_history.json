@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:04:03.567372",
+  "updated_at": "2026-07-24T19:55:26.860877",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -330,6 +330,11 @@
       "key": "doi:10.14295/bjs.v6i1.933",
       "sent_on": "2026-07-22",
       "title": "Pharmacogenomics-driven precision pharmacy: Mechanisms, challenges, and translational advances"
+    },
+    {
+      "key": "doi:10.64898/2026.07.20.739108",
+      "sent_on": "2026-07-24",
+      "title": "Combining Stability-Centered Atomistic Design with Machine Learning for Targeted Enzyme Optimization"
     }
   ]
 }
