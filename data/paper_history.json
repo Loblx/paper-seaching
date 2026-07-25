@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:55:26.860877",
+  "updated_at": "2026-07-25T19:43:00.844870",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -335,6 +335,26 @@
       "key": "doi:10.64898/2026.07.20.739108",
       "sent_on": "2026-07-24",
       "title": "Combining Stability-Centered Atomistic Design with Machine Learning for Targeted Enzyme Optimization"
+    },
+    {
+      "key": "doi:10.3390/molecules31152569",
+      "sent_on": "2026-07-25",
+      "title": "Effects of Co-Cultivation on the Phenolic Composition and Bioactive Properties of Basidiomycete Mycelia: Antioxidant, Photoprotective, Anti-Tyrosinase, and In Silico Evidence"
+    },
+    {
+      "key": "doi:10.64898/2026.07.17.739257",
+      "sent_on": "2026-07-25",
+      "title": "The \"dark magic mushroom\" co-produces amatoxins and psilocybin"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1884201",
+      "sent_on": "2026-07-25",
+      "title": "Metabolic engineering of tobacco for heterologous production of rare ginsenosides CK and Rh2"
+    },
+    {
+      "key": "doi:10.1021/acsomega.6c04360",
+      "sent_on": "2026-07-25",
+      "title": "Advances in Ligand Development for Wacker-Type Oxidation"
     }
   ]
 }
