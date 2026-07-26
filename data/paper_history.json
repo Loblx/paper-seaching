@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T19:43:00.844870",
+  "updated_at": "2026-07-26T19:44:01.858220",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -355,6 +355,11 @@
       "key": "doi:10.1021/acsomega.6c04360",
       "sent_on": "2026-07-25",
       "title": "Advances in Ligand Development for Wacker-Type Oxidation"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-75811-1",
+      "sent_on": "2026-07-26",
+      "title": "Anchoring mechanism-inspired discovery of a bacterial P450 gene conferring resistance to auxin herbicides"
     }
   ]
 }
