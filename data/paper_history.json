@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T20:04:07.610217",
+  "updated_at": "2026-07-28T20:01:02.837141",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -360,6 +360,16 @@
       "key": "doi:10.1038/s41467-026-75811-1",
       "sent_on": "2026-07-26",
       "title": "Anchoring mechanism-inspired discovery of a bacterial P450 gene conferring resistance to auxin herbicides"
+    },
+    {
+      "key": "doi:10.1016/j.cbpc.2026.110633",
+      "sent_on": "2026-07-28",
+      "title": "Single and mixtures toxicity of emerging (polystyrene nanoplastic) and persistent (PAHs and PCBs) pollutants and their sub-lethal adverse effects on larval stage zebrafish (Danio rerio)"
+    },
+    {
+      "key": "doi:10.1002/bit.70248",
+      "sent_on": "2026-07-28",
+      "title": "Metabolic Engineering Strategies for Flavonoid Biosynthesis in <i>Saccharomyces cerevisiae</i> : Current Advances and Future Perspectives"
     }
   ]
 }
