@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T20:01:02.837141",
+  "updated_at": "2026-07-29T19:52:37.850796",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -370,6 +370,11 @@
       "key": "doi:10.1002/bit.70248",
       "sent_on": "2026-07-28",
       "title": "Metabolic Engineering Strategies for Flavonoid Biosynthesis in <i>Saccharomyces cerevisiae</i> : Current Advances and Future Perspectives"
+    },
+    {
+      "key": "doi:10.1016/j.isci.2026.116797",
+      "sent_on": "2026-07-29",
+      "title": "BoltzOmics: Predicting genetic variant effects on drug binding with Boltz-2"
     }
   ]
 }
