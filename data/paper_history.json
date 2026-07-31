@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T20:02:21.878342",
+  "updated_at": "2026-07-31T20:02:18.541339",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -375,6 +375,11 @@
       "key": "doi:10.1016/j.isci.2026.116797",
       "sent_on": "2026-07-29",
       "title": "BoltzOmics: Predicting genetic variant effects on drug binding with Boltz-2"
+    },
+    {
+      "key": "doi:10.18579/jopcr/v25.i2.37",
+      "sent_on": "2026-07-31",
+      "title": "Harnessing Biocatalysis for Green Chemistry: Emerging Innovations and Sustainable Frontiers"
     }
   ]
 }
