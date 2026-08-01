@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T20:02:18.541339",
+  "updated_at": "2026-08-01T19:43:22.723700",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -380,6 +380,16 @@
       "key": "doi:10.18579/jopcr/v25.i2.37",
       "sent_on": "2026-07-31",
       "title": "Harnessing Biocatalysis for Green Chemistry: Emerging Innovations and Sustainable Frontiers"
+    },
+    {
+      "key": "doi:10.3390/molecules31152653",
+      "sent_on": "2026-08-01",
+      "title": "A Review of Plant-Derived Diterpenoid Biosynthesis: From Structural Scaffold Diversity and Lineage-Associated Distribution to Enzyme Mining and Discovery Strategies"
+    },
+    {
+      "key": "doi:10.64898/2026.07.24.740367",
+      "sent_on": "2026-08-01",
+      "title": "Network Pharmacology-Guided Discovery of Fungal Autophagy Modulators for Tauopathies: Structural and Proteomic Evidence"
     }
   ]
 }
