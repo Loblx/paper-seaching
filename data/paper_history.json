@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:43:22.723700",
+  "updated_at": "2026-08-02T19:43:14.195105",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -390,6 +390,11 @@
       "key": "doi:10.64898/2026.07.24.740367",
       "sent_on": "2026-08-01",
       "title": "Network Pharmacology-Guided Discovery of Fungal Autophagy Modulators for Tauopathies: Structural and Proteomic Evidence"
+    },
+    {
+      "key": "doi:10.1038/s42004-026-02152-x",
+      "sent_on": "2026-08-02",
+      "title": "Construction of a diverse echinocandin library via combinatorial biosynthesis targeting improved physicochemical properties and bioactivity"
     }
   ]
 }
