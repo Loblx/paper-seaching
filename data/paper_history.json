@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:08:55.481093",
+  "updated_at": "2026-08-05T20:08:37.666257",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -395,6 +395,16 @@
       "key": "doi:10.1038/s42004-026-02152-x",
       "sent_on": "2026-08-02",
       "title": "Construction of a diverse echinocandin library via combinatorial biosynthesis targeting improved physicochemical properties and bioactivity"
+    },
+    {
+      "key": "doi:10.64898/2026.07.31.742161",
+      "sent_on": "2026-08-05",
+      "title": "Discovery of a taxusin-mediated route to baccatin III enables its complete biosynthesis in engineered microbes"
+    },
+    {
+      "key": "doi:10.1016/j.jfutfo.2026.07.006",
+      "sent_on": "2026-08-05",
+      "title": "Research Progress of Synthetic Biology Technology in the Development and Utilization of Food and Medicine Homologous Resources"
     }
   ]
 }
