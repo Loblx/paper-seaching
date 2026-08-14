@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:34:28.542201",
+  "updated_at": "2026-08-14T19:28:56.659414",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -420,6 +420,11 @@
       "key": "doi:10.3389/fpls.2026.1880445",
       "sent_on": "2026-08-12",
       "title": "Recent advances in Taxus molecular research: applications in genetic diversity, gene function and metabolic engineering"
+    },
+    {
+      "key": "doi:10.1371/journal.pone.0355314",
+      "sent_on": "2026-08-14",
+      "title": "Exogenous application of α-Ionone and Methyl jasmonate induces metabolite-based response in Alstroemeria and reduces feeding damage by Western Flower Thrips"
     }
   ]
 }
