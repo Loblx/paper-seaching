@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:10:18.397379",
+  "updated_at": "2026-08-21T19:06:52.445426",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -425,6 +425,11 @@
       "key": "doi:10.1371/journal.pone.0355314",
       "sent_on": "2026-08-14",
       "title": "Exogenous application of α-Ionone and Methyl jasmonate induces metabolite-based response in Alstroemeria and reduces feeding damage by Western Flower Thrips"
+    },
+    {
+      "key": "doi:10.1038/s41557-026-02224-4",
+      "sent_on": "2026-08-21",
+      "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells"
     }
   ]
 }
