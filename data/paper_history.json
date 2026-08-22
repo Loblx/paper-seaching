@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T19:06:52.445426",
+  "updated_at": "2026-08-22T18:58:08.055607",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -430,6 +430,16 @@
       "key": "doi:10.1038/s41557-026-02224-4",
       "sent_on": "2026-08-21",
       "title": "Nitrene generation and transfer for unnatural biosynthesis in living cells"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c10016",
+      "sent_on": "2026-08-22",
+      "title": "Biosynthesis of Crinipellin Diterpenes in Mushroom Marasmius fiardii PR-910"
+    },
+    {
+      "key": "doi:10.1186/s12870-026-09677-2",
+      "sent_on": "2026-08-22",
+      "title": "A herbivore-inducible CYP82 catalyzes DMNT formation in Idesia polycarpa leaves"
     }
   ]
 }
