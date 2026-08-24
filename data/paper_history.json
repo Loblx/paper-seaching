@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T18:57:09.411191",
+  "updated_at": "2026-08-24T19:10:08.052110",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -440,6 +440,21 @@
       "key": "doi:10.1186/s12870-026-09677-2",
       "sent_on": "2026-08-22",
       "title": "A herbivore-inducible CYP82 catalyzes DMNT formation in Idesia polycarpa leaves"
+    },
+    {
+      "key": "doi:10.1093/plphys/kiag622",
+      "sent_on": "2026-08-24",
+      "title": "Biosynthesis of pathogen-induced hydroxylated tryptamine derivatives in barley"
+    },
+    {
+      "key": "doi:10.1016/j.greenca.2026.08.004",
+      "sent_on": "2026-08-24",
+      "title": "Sustainable biomanufacturing of fat-soluble vitamins: Rewiring carbon flux and green carbon management"
+    },
+    {
+      "key": "doi:10.1128/aem.00110-26",
+      "sent_on": "2026-08-24",
+      "title": "Metabolic engineering of Komagataella phaffii for enhanced production of heterologous proteins and small molecules: key strategies and future directions"
     }
   ]
 }
