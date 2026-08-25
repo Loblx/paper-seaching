@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T19:10:08.052110",
+  "updated_at": "2026-08-25T19:08:39.524908",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -455,6 +455,11 @@
       "key": "doi:10.1128/aem.00110-26",
       "sent_on": "2026-08-24",
       "title": "Metabolic engineering of Komagataella phaffii for enhanced production of heterologous proteins and small molecules: key strategies and future directions"
+    },
+    {
+      "key": "doi:10.1007/s13659-026-00640-0",
+      "sent_on": "2026-08-25",
+      "title": "Research progress on biosynthesis and regulation of monoterpenoid compounds"
     }
   ]
 }
