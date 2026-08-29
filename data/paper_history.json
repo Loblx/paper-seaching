@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T02:16:19.499962",
+  "updated_at": "2026-08-29T01:49:48.783054",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -460,6 +460,21 @@
       "key": "doi:10.1007/s13659-026-00640-0",
       "sent_on": "2026-08-25",
       "title": "Research progress on biosynthesis and regulation of monoterpenoid compounds"
+    },
+    {
+      "key": "doi:10.1016/j.synbio.2026.08.004",
+      "sent_on": "2026-08-29",
+      "title": "Characterization of two key cytochrome P450 enzymes in Isodon amethystoides and de novo production of 3α,15β-dihydroxy-ent-kaurene in yeast"
+    },
+    {
+      "key": "doi:10.3389/finmi.2026.1890364",
+      "sent_on": "2026-08-29",
+      "title": "Detoxification as metabolic rewiring: carbon and redox recovery from lignocellulosic inhibitors in biorefinery hosts"
+    },
+    {
+      "key": "doi:10.1016/j.plaphy.2026.111685",
+      "sent_on": "2026-08-29",
+      "title": "Fungal endophytes relieve the growth-defence trade-off of their plant hosts through the production of bioactive alkaloids"
     }
   ]
 }
