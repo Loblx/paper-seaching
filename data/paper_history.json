@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:22:18.606020",
+  "updated_at": "2026-08-31T22:58:12.913081",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -475,6 +475,16 @@
       "key": "doi:10.1016/j.plaphy.2026.111685",
       "sent_on": "2026-08-29",
       "title": "Fungal endophytes relieve the growth-defence trade-off of their plant hosts through the production of bioactive alkaloids"
+    },
+    {
+      "key": "doi:10.3390/metabo16080598",
+      "sent_on": "2026-08-31",
+      "title": "Volatile Profiling and Transcriptomic Analysis of Peel and Flesh in Wampee (Clausena lansium (Lour.) Skeels)"
+    },
+    {
+      "key": "doi:10.3390/biology15161367",
+      "sent_on": "2026-08-31",
+      "title": "Full-Length Transcriptome Reveals Alternative Splicing Regulation and Key Genes Underlying Differential Ginsenoside Accumulation Between Wild-Simulated and Cultivated Ginseng"
     }
   ]
 }
