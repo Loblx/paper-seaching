@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:13:05.920786",
+  "updated_at": "2026-09-02T21:11:58.886103",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -485,6 +485,21 @@
       "key": "doi:10.3390/biology15161367",
       "sent_on": "2026-08-31",
       "title": "Full-Length Transcriptome Reveals Alternative Splicing Regulation and Key Genes Underlying Differential Ginsenoside Accumulation Between Wild-Simulated and Cultivated Ginseng"
+    },
+    {
+      "key": "doi:10.1016/j.cpb.2026.100663",
+      "sent_on": "2026-09-02",
+      "title": "Metabolic Engineering Strategies for Sustainable Production of High-Value Gyrinops Agarwood Metabolites"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-77224-6",
+      "sent_on": "2026-09-02",
+      "title": "Reprogramming product selectivity and activity in promiscuous terpene synthases via substrate conformation engineering"
+    },
+    {
+      "key": "doi:10.1080/21501203.2026.2716430",
+      "sent_on": "2026-09-02",
+      "title": "AI-enabled fungal biomanufacturing: from genome mining to the artificial intelligence virtual cell"
     }
   ]
 }
