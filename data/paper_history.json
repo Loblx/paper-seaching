@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:34:53.689060",
+  "updated_at": "2026-09-06T20:39:28.957265",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -520,6 +520,11 @@
       "key": "doi:10.1002/1873-3468.70456",
       "sent_on": "2026-09-05",
       "title": "Structural insights into the bioengineering of heme‐containing enzymes"
+    },
+    {
+      "key": "doi:10.1007/s43630-026-00988-9",
+      "sent_on": "2026-09-06",
+      "title": "Ethnobotany-guided exploration of plant-derived photosensitizer candidates for photodynamic therapy"
     }
   ]
 }
