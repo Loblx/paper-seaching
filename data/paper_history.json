@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:19:14.796749",
+  "updated_at": "2026-09-09T21:04:37.827772",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -525,6 +525,16 @@
       "key": "doi:10.1007/s43630-026-00988-9",
       "sent_on": "2026-09-06",
       "title": "Ethnobotany-guided exploration of plant-derived photosensitizer candidates for photodynamic therapy"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15008459/v1",
+      "sent_on": "2026-09-09",
+      "title": "Developing Efficient and Hyperthermostable Heme Peroxygenase Enzymes as a Biocatalytic Platform for Selective C-H bond Oxidation Reactions"
+    },
+    {
+      "key": "doi:10.3389/fphar.2026.1851793",
+      "sent_on": "2026-09-09",
+      "title": "Cloning of a novel cyanobacterial serotonin N-acetyltransferase gene CySNAT3 and its integration with transcriptomic drug repurposing in pediatric obstructive sleep-disordered breathing"
     }
   ]
 }
