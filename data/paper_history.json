@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T21:04:20.066586",
+  "updated_at": "2026-09-11T21:08:59.046374",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -535,6 +535,16 @@
       "key": "doi:10.3389/fphar.2026.1851793",
       "sent_on": "2026-09-09",
       "title": "Cloning of a novel cyanobacterial serotonin N-acetyltransferase gene CySNAT3 and its integration with transcriptomic drug repurposing in pediatric obstructive sleep-disordered breathing"
+    },
+    {
+      "key": "doi:10.1002/anie.2096522",
+      "sent_on": "2026-09-11",
+      "title": "Redirecting Regioselectivity in Cytochrome P450 ApPT for B‐Ring Functionalization of Pentacyclic Triterpenoids"
+    },
+    {
+      "key": "doi:10.1002/anie.9391687",
+      "sent_on": "2026-09-11",
+      "title": "Discovery and Characterization of Conserved N‐Oxide‐Forming Function of FAD‐Dependent Monooxygenases for Fungal Prenylated Indole Alkaloid Biosynthesis"
     }
   ]
 }
