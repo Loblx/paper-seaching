@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:02:02.195045",
+  "updated_at": "2026-09-14T21:57:09.190625",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -545,6 +545,21 @@
       "key": "doi:10.1002/anie.9391687",
       "sent_on": "2026-09-11",
       "title": "Discovery and Characterization of Conserved N‐Oxide‐Forming Function of FAD‐Dependent Monooxygenases for Fungal Prenylated Indole Alkaloid Biosynthesis"
+    },
+    {
+      "key": "doi:10.64898/2026.09.09.750345",
+      "sent_on": "2026-09-14",
+      "title": "Biocatalytic Production of Galantamine in Yeast through Cytochrome P450 Optimization"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1937259",
+      "sent_on": "2026-09-14",
+      "title": "Genome-wide analysis of TPS family reveals kaurene synthase-like genes in Isodon rubescens f. lushanensis"
+    },
+    {
+      "key": "doi:10.1016/j.insi.2026.100601",
+      "sent_on": "2026-09-14",
+      "title": "Exploring the Antifungal Susceptibility, Morphological Transition and Combination with Fluconazole of Diterpene Phytol against Candida spp"
     }
   ]
 }
