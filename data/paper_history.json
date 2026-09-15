@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T21:57:09.190625",
+  "updated_at": "2026-09-15T21:37:53.652254",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -560,6 +560,16 @@
       "key": "doi:10.1016/j.insi.2026.100601",
       "sent_on": "2026-09-14",
       "title": "Exploring the Antifungal Susceptibility, Morphological Transition and Combination with Fluconazole of Diterpene Phytol against Candida spp"
+    },
+    {
+      "key": "doi:10.1007/s11274-026-05245-w",
+      "sent_on": "2026-09-15",
+      "title": "Genomic features, metabolism, and biotechnological applications of Candida tropicalis and other non-albicans Candida species"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-76264-2",
+      "sent_on": "2026-09-15",
+      "title": "Rank-guided learning accelerates automated enzyme engineering"
     }
   ]
 }
