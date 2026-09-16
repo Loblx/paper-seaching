@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:37:53.652254",
+  "updated_at": "2026-09-16T21:32:29.016157",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -570,6 +570,41 @@
       "key": "doi:10.1038/s41467-026-76264-2",
       "sent_on": "2026-09-15",
       "title": "Rank-guided learning accelerates automated enzyme engineering"
+    },
+    {
+      "key": "doi:10.1093/plphys/kiag669",
+      "sent_on": "2026-09-16",
+      "title": "Identification and Catalytic Optimization of Pinene Oxidases in Paeoniflorin Biosynthetic Pathway"
+    },
+    {
+      "key": "doi:10.1038/s41589-026-02323-w",
+      "sent_on": "2026-09-16",
+      "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c13983",
+      "sent_on": "2026-09-16",
+      "title": "Cytochrome P450- and Dehydrogenase-Mediated Regiospecific and Stereoselective Formation of β- and γ-Lactones in Drimane-Type Sesquiterpenoid Biosynthesis"
+    },
+    {
+      "key": "doi:10.1016/j.abiote.2026.100085",
+      "sent_on": "2026-09-16",
+      "title": "Metabolic engineering of Saccharomyces cerevisiae for de novo biosynthesis of isoorientin"
+    },
+    {
+      "key": "doi:10.3390/plants15172660",
+      "sent_on": "2026-09-16",
+      "title": "Cucurbitacins in Plant–Insect Interactions: Biosynthesis, Regulation, Ecological Functions, and Prospects for Crop Protection"
+    },
+    {
+      "key": "doi:10.3389/fmala.2026.1890327",
+      "sent_on": "2026-09-16",
+      "title": "Mechanisms of insecticide resistance in mosquitoes and their implications for disease control"
+    },
+    {
+      "key": "doi:10.3390/ijms27177690",
+      "sent_on": "2026-09-16",
+      "title": "Paclitaxel Nanomedicines: Molecular Mechanisms of Drug Resistance, Tumor Microenvironment-Responsive Delivery, and Translational Challenges"
     }
   ]
 }
