@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:32:29.016157",
+  "updated_at": "2026-09-17T21:36:17.066206",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -605,6 +605,21 @@
       "key": "doi:10.3390/ijms27177690",
       "sent_on": "2026-09-16",
       "title": "Paclitaxel Nanomedicines: Molecular Mechanisms of Drug Resistance, Tumor Microenvironment-Responsive Delivery, and Translational Challenges"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1943006",
+      "sent_on": "2026-09-17",
+      "title": "Functional identification of two cytochrome P450 enzymes involved in diterpenoid oxidation in Ginkgo biloba"
+    },
+    {
+      "key": "doi:10.1002/anie.7714055",
+      "sent_on": "2026-09-17",
+      "title": "Substrate‐Dependent Crosslinking by the Cytochrome P450 From Aminopyruvatide Biosynthesis"
+    },
+    {
+      "key": "doi:10.3390/ijms27177739",
+      "sent_on": "2026-09-17",
+      "title": "6PPD and 6PPD-Q Induce Mitochondrial Dysfunction in Saccharomyces cerevisiae"
     }
   ]
 }
