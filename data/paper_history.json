@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:41:47.742182",
+  "updated_at": "2026-09-25T21:45:03.850956",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -630,6 +630,31 @@
       "key": "doi:10.1016/j.tifs.2026.106092",
       "sent_on": "2026-09-22",
       "title": "Toward sustainable soybean isoflavone production: Strategies, challenges, and prospects"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15009335/v1",
+      "sent_on": "2026-09-25",
+      "title": "Integrating Pathway Engineering and FoTO1-Mediated Oxidation for Taxadien-5α-ol Production"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15009130/v2",
+      "sent_on": "2026-09-25",
+      "title": "Experimental Data Analysis and Improved Cytochrome P450 Site-of-Metabolism Prediction for Drug Discovery"
+    },
+    {
+      "key": "doi:10.64898/2026.09.18.751866",
+      "sent_on": "2026-09-25",
+      "title": "A heterologous expression system allows rapid testing and discovery of resistance-conferring mutations from multiple pathogenic fungi"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15009130/v1",
+      "sent_on": "2026-09-25",
+      "title": "Experimental Data Analysis and Improved Cytochrome P450 Site-of-Metabolism Prediction for Drug Discovery"
+    },
+    {
+      "key": "doi:10.1093/aob/mcag287",
+      "sent_on": "2026-09-25",
+      "title": "Exploring L-tyrosine and L-DOPA biosynthesis in faba bean ( Vicia faba L.)"
     }
   ]
 }
