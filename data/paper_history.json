@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:45:03.850956",
+  "updated_at": "2026-09-26T21:22:52.818957",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -655,6 +655,21 @@
       "key": "doi:10.1093/aob/mcag287",
       "sent_on": "2026-09-25",
       "title": "Exploring L-tyrosine and L-DOPA biosynthesis in faba bean ( Vicia faba L.)"
+    },
+    {
+      "key": "doi:10.1007/s10123-026-00895-0",
+      "sent_on": "2026-09-26",
+      "title": "Epoxidation of ent-pimara-8(14),15-dien-19-oic acid by whole cells of the endophytic fungus Aspergillus sclerotiorum"
+    },
+    {
+      "key": "doi:10.3892/mmr.2026.14028",
+      "sent_on": "2026-09-26",
+      "title": "Advances in biomarkers of benzene exposure and toxicity: From mechanistic insights to occupational health applications (Review)"
+    },
+    {
+      "key": "doi:10.1021/acsomega.6c01534",
+      "sent_on": "2026-09-26",
+      "title": "Expanding the Biocatalytic Toolbox: A Singular P450 Enzyme Efficiently Produces Diverse Pharmaceutical Metabolites"
     }
   ]
 }
