@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T21:22:52.818957",
+  "updated_at": "2026-09-27T21:30:43.464400",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -670,6 +670,11 @@
       "key": "doi:10.1021/acsomega.6c01534",
       "sent_on": "2026-09-26",
       "title": "Expanding the Biocatalytic Toolbox: A Singular P450 Enzyme Efficiently Produces Diverse Pharmaceutical Metabolites"
+    },
+    {
+      "key": "doi:10.1002/bit.70381",
+      "sent_on": "2026-09-27",
+      "title": "Transcriptomics‐Driven Identification and Engineering of a Novel Lactone Esterase ( Sr LE) for Efficient Sophorolipid Lactonization in the Yeast Starmerella riodocensis"
     }
   ]
 }
