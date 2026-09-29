@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T23:26:31.123176",
+  "updated_at": "2026-09-29T22:30:45.423138",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -675,6 +675,36 @@
       "key": "doi:10.1002/bit.70381",
       "sent_on": "2026-09-27",
       "title": "Transcriptomics‐Driven Identification and Engineering of a Novel Lactone Esterase ( Sr LE) for Efficient Sophorolipid Lactonization in the Yeast Starmerella riodocensis"
+    },
+    {
+      "key": "doi:10.1002/smll.75979",
+      "sent_on": "2026-09-29",
+      "title": "Regioselective C‐H Oxyfunctionalization of Aliphatic Acids Through a Consecutive Biosolar Cascade"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15009513/v1",
+      "sent_on": "2026-09-29",
+      "title": "Structural and Spectroscopic Characterization of Self-Sufficient Cytochrome P450 Fusion Enzymes: CYP102A1 and CYP116B"
+    },
+    {
+      "key": "doi:10.3390/microorganisms14091869",
+      "sent_on": "2026-09-29",
+      "title": "Biosynthesis and Microbial Production of Carminic Acid: From Pathway Elucidation to Synthetic Biology"
+    },
+    {
+      "key": "doi:10.3390/cimb48090964",
+      "sent_on": "2026-09-29",
+      "title": "Genomic Characterization and Biotechnological Potential of a Skatole-Degrading Bacillus pumilus Strain hhy901 Isolated from Bovine Manure"
+    },
+    {
+      "key": "doi:10.3390/jof12090673",
+      "sent_on": "2026-09-29",
+      "title": "Ecological Niche Differentiation Parallels Genomic Divergence of Three Thelephora Ectomycorrhizal Fungi"
+    },
+    {
+      "key": "doi:10.3390/jof12090643",
+      "sent_on": "2026-09-29",
+      "title": "Genome Assembly and Genomic Characterization of Sanghuangporus mongolicus"
     }
   ]
 }
