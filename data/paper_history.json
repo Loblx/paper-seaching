@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T22:26:59.269709",
+  "updated_at": "2026-10-03T21:38:26.723190",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -705,6 +705,31 @@
       "key": "doi:10.3390/jof12090643",
       "sent_on": "2026-09-29",
       "title": "Genome Assembly and Genomic Characterization of Sanghuangporus mongolicus"
+    },
+    {
+      "key": "doi:10.1002/cbdv.71767",
+      "sent_on": "2026-10-03",
+      "title": "Antimicrobial Activity of Cinnamomum cassia Essential Oil: Phytochemical Profiling, In Vitro Evaluation, and Molecular Docking"
+    },
+    {
+      "key": "doi:10.1080/07388551.2026.2691230",
+      "sent_on": "2026-10-03",
+      "title": "From discovery to application: cytochrome P450 enzyme in filamentous fungi for biosynthesis of steroids"
+    },
+    {
+      "key": "doi:10.1142/s1088424626300107",
+      "sent_on": "2026-10-03",
+      "title": "Navigating P450 recognition: Selectivity, inhibition, and substrate mimicry"
+    },
+    {
+      "key": "doi:10.5155/eurjchem.17.3.210-217.2752",
+      "sent_on": "2026-10-03",
+      "title": "Synthesis, characterization, and biological evaluation of 2-(4'-bromo[1,1'-biphenyl]-4-yl)-1H-benzo[d]imidazole derivatives"
+    },
+    {
+      "key": "doi:10.1038/s42004-025-01876-6",
+      "sent_on": "2026-10-03",
+      "title": "Orthologue inference-based enzyme mining for diversification of the anti-cancer evodiamine scaffold"
     }
   ]
 }
