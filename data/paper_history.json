@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T21:45:48.063913",
+  "updated_at": "2026-10-06T00:14:21.995872",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -735,6 +735,16 @@
       "key": "doi:10.1016/j.jia.2026.10.002",
       "sent_on": "2026-10-04",
       "title": "Novel highly potent and environmentally benign molluscicides for Pomacea canaliculata control: Discovery, mechanism, and field validation"
+    },
+    {
+      "key": "doi:10.1016/j.biotechadv.2026.109065",
+      "sent_on": "2026-10-06",
+      "title": "Bioproduction of α,ω-oxyfunctionalised alkanes"
+    },
+    {
+      "key": "doi:10.1016/j.cbs.2026.100013",
+      "sent_on": "2026-10-06",
+      "title": "Metabolic Stability In Hepatocellular Carcinoma Drug Design: Current Challenges And Optimization Strategies"
     }
   ]
 }
