@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T22:48:27.270543",
+  "updated_at": "2026-10-10T21:55:49.166920",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -750,6 +750,21 @@
       "key": "doi:10.64898/2026.10.02.756137",
       "sent_on": "2026-10-08",
       "title": "Molecular characterization of a cytochrome P450 involved in the skeletal diversification of tricyclic coumarins in Angelica keiskei ."
+    },
+    {
+      "key": "doi:10.1038/s41467-026-78486-w",
+      "sent_on": "2026-10-10",
+      "title": "P450-catalyzed enantiodivergent kinetic oxidation to access chiral haloalcohols"
+    },
+    {
+      "key": "doi:10.26599/jfb.2026.95035452",
+      "sent_on": "2026-10-10",
+      "title": "Microbial biotransformation of plant-derived bioactive compounds: structural modifications, enhanced bioavailability, and functional food applications"
+    },
+    {
+      "key": "doi:10.1021/acscatal.6c06279",
+      "sent_on": "2026-10-10",
+      "title": "Regiodivergent Oxyfuctionalization of Non-natural Tricyclic Terpenoids Using Sequence Divergent Unspecific Peroxygenases (UPOs)"
     }
   ]
 }
