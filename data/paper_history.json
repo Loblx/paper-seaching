@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T21:37:28.540247",
+  "updated_at": "2026-10-16T21:31:03.875224",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -775,6 +775,11 @@
       "key": "doi:10.26434/chemrxiv.15010257/v1",
       "sent_on": "2026-10-13",
       "title": "Characterisation of thermostable CYP116B reductase domains as modular electron transfer units for redox biocatalysis"
+    },
+    {
+      "key": "doi:10.25258/ijddt.16.71s.27",
+      "sent_on": "2026-10-16",
+      "title": "Amino Derived Drug Precursors for Drug Developments Using Biocatalyst"
     }
   ]
 }
