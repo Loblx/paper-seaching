@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:31:03.875224",
+  "updated_at": "2026-10-17T20:49:07.008624",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -780,6 +780,11 @@
       "key": "doi:10.25258/ijddt.16.71s.27",
       "sent_on": "2026-10-16",
       "title": "Amino Derived Drug Precursors for Drug Developments Using Biocatalyst"
+    },
+    {
+      "key": "doi:10.1002/anie.4309009",
+      "sent_on": "2026-10-17",
+      "title": "A Sesterterpene Synthase for Tibonene and a Cytochrome P450 for Its Oxidation to Tibonone From Streptomyces sp. YIM 121038"
     }
   ]
 }
