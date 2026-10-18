@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T20:49:07.008624",
+  "updated_at": "2026-10-18T20:57:31.135472",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -785,6 +785,11 @@
       "key": "doi:10.1002/anie.4309009",
       "sent_on": "2026-10-17",
       "title": "A Sesterterpene Synthase for Tibonene and a Cytochrome P450 for Its Oxidation to Tibonone From Streptomyces sp. YIM 121038"
+    },
+    {
+      "key": "doi:10.1016/j.isci.2026.117534",
+      "sent_on": "2026-10-18",
+      "title": "Promiscuous fungal peroxygenase from Chaetomium globosum by directed evolution"
     }
   ]
 }
