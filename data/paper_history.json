@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T21:34:29.356085",
+  "updated_at": "2026-10-24T21:03:15.608317",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -800,6 +800,11 @@
       "key": "doi:10.1038/s41467-026-76625-x",
       "sent_on": "2026-10-23",
       "title": "Engineering the paclitaxel biosynthetic pathway in Physcomitrium patens for de novo and stable biosynthesis"
+    },
+    {
+      "key": "doi:10.55248/gengpi.07.1026.33088",
+      "sent_on": "2026-10-24",
+      "title": "Climate-Smart Digital Advisories for Mycotoxin and Heat-Stress Mitigation: Integrating Stress Biochemistry, Precision Sensor Engineering, and Public Health Nutrition Policy"
     }
   ]
 }
