@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:03:15.608317",
+  "updated_at": "2026-10-25T21:05:20.264262",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -805,6 +805,16 @@
       "key": "doi:10.55248/gengpi.07.1026.33088",
       "sent_on": "2026-10-24",
       "title": "Climate-Smart Digital Advisories for Mycotoxin and Heat-Stress Mitigation: Integrating Stress Biochemistry, Precision Sensor Engineering, and Public Health Nutrition Policy"
+    },
+    {
+      "key": "doi:10.64898/2026.10.14.759206",
+      "sent_on": "2026-10-25",
+      "title": "Biosynthesis of Securinega alkaloids via a cyanogenic glucoside-like pathway"
+    },
+    {
+      "key": "doi:10.64898/2026.10.16.759199",
+      "sent_on": "2026-10-25",
+      "title": "Engineering the effector specificity of the macrolide-sensing transcription factor MphR for the detection of sesquiterpenes"
     }
   ]
 }
