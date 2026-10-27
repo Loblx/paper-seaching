@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:49:21.877069",
+  "updated_at": "2026-10-27T22:29:26.826217",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -815,6 +815,21 @@
       "key": "doi:10.64898/2026.10.16.759199",
       "sent_on": "2026-10-25",
       "title": "Engineering the effector specificity of the macrolide-sensing transcription factor MphR for the detection of sesquiterpenes"
+    },
+    {
+      "key": "doi:10.1016/j.chmed.2026.10.007",
+      "sent_on": "2026-10-27",
+      "title": "Identification of a key glycosyltransferase and de novo biosynthesis of rare oleanane-type pseudoginsenoside RT1 in Saccharomyces cerevisiae"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c06067",
+      "sent_on": "2026-10-27",
+      "title": "Chemoenzymatic Synthesis with Plant Oxidases and Metabolic Engineering Enable Rapid Access to Rare Gibberellins"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv-2025-r0q41",
+      "sent_on": "2026-10-27",
+      "title": "Chemoenzymatic Synthesis with Plant Oxidases and Metabolic Engineering Enable the Total Biosynthesis of Rare Gibberellins"
     }
   ]
 }
