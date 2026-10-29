@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:45:23.895615",
+  "updated_at": "2026-10-29T22:54:32.147941",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -830,6 +830,16 @@
       "key": "doi:10.26434/chemrxiv-2025-r0q41",
       "sent_on": "2026-10-27",
       "title": "Chemoenzymatic Synthesis with Plant Oxidases and Metabolic Engineering Enable the Total Biosynthesis of Rare Gibberellins"
+    },
+    {
+      "key": "doi:10.1016/j.isci.2026.117873",
+      "sent_on": "2026-10-29",
+      "title": "HelixWings enables AI-driven enzyme engineering for biomimetic cofactor utilization"
+    },
+    {
+      "key": "doi:10.1002/biot.70327",
+      "sent_on": "2026-10-29",
+      "title": "Effectively Heterologous Synthesis of Lovastatin in Aspergillus niger by Improved Supply of Precursor Monacolin J"
     }
   ]
 }
