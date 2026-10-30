@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:54:32.147941",
+  "updated_at": "2026-10-30T22:34:14.138410",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -840,6 +840,11 @@
       "key": "doi:10.1002/biot.70327",
       "sent_on": "2026-10-29",
       "title": "Effectively Heterologous Synthesis of Lovastatin in Aspergillus niger by Improved Supply of Precursor Monacolin J"
+    },
+    {
+      "key": "doi:10.64898/2026.05.12.724510",
+      "sent_on": "2026-10-30",
+      "title": "PlantP450Dock: an Automated Molecular Docking Pipeline of Plant Cytochrome P450s"
     }
   ]
 }
