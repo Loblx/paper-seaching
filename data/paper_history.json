@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:34:14.138410",
+  "updated_at": "2026-10-31T21:47:08.817484",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -845,6 +845,26 @@
       "key": "doi:10.64898/2026.05.12.724510",
       "sent_on": "2026-10-30",
       "title": "PlantP450Dock: an Automated Molecular Docking Pipeline of Plant Cytochrome P450s"
+    },
+    {
+      "key": "doi:10.21203/rs.3.rs-10657938/v1",
+      "sent_on": "2026-10-31",
+      "title": "Discovery of the rosalexin pathway expands the modular network of maize diterpenoid phytoalexins"
+    },
+    {
+      "key": "doi:10.3390/jof12100784",
+      "sent_on": "2026-10-31",
+      "title": "Comparative Genomics and Gene Cluster Family Analysis Reveal Conserved and Isolate-Specific Biosynthetic Potential in Medicinal Plant-Associated Endophytic Diaporthe"
+    },
+    {
+      "key": "doi:10.3390/biom16101450",
+      "sent_on": "2026-10-31",
+      "title": "Metabolic Engineering of Yarrowia lipolytica for De Novo Biosynthesis of Umbelliferone"
+    },
+    {
+      "key": "doi:10.21203/rs.3.rs-11140535/v1",
+      "sent_on": "2026-10-31",
+      "title": "Gap-free near-T2T genome assembly of Digitalis lanata enables complete enzymatic production of digoxigenin"
     }
   ]
 }
