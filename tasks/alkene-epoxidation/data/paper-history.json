@@ -1,4 +1,30 @@
 {
-  "updated_at": "2026-11-01T16:30:35.367027",
-  "papers": []
+  "updated_at": "2026-11-02T00:36:34.021314+08:00",
+  "papers": [
+    {
+      "key": "doi:10.48550/arxiv.2608.14351",
+      "sent_on": "2026-11-02T00:36:34.021314+08:00",
+      "title": "Multidimensional Design of Metal-Nitrogen-Carbon Electrocatalysts for Direct Propylene Epoxidation"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c12994",
+      "sent_on": "2026-11-02T00:36:34.021314+08:00",
+      "title": "Local pH Control Promotes Oxygen-Atom Transfer Electrosynthesis"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-76617-x",
+      "sent_on": "2026-11-02T00:36:34.021314+08:00",
+      "title": "Bromide-mediated paired electrosynthesis of hydrogen and epoxide"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15009683/v1",
+      "sent_on": "2026-11-02T00:36:34.021314+08:00",
+      "title": "When Reactions Cross Back: Dynamical Effects in Manganese–Oxo Epoxidation"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15005740/v1",
+      "sent_on": "2026-11-02T00:36:34.021314+08:00",
+      "title": "Electric-field promoted thermal oxidation of alkenes using immobilized iron porphyrin catalysts"
+    }
+  ]
 }
