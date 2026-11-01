@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:47:08.817484",
+  "updated_at": "2026-11-01T22:15:17.275948",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -865,6 +865,11 @@
       "key": "doi:10.21203/rs.3.rs-11140535/v1",
       "sent_on": "2026-10-31",
       "title": "Gap-free near-T2T genome assembly of Digitalis lanata enables complete enzymatic production of digoxigenin"
+    },
+    {
+      "key": "doi:10.1002/cbic.70572",
+      "sent_on": "2026-11-01",
+      "title": "Expression of Human CYP2D6 in Artificial Cells Based on Polymer‐Lipid Hybrid Vesicles"
     }
   ]
 }
