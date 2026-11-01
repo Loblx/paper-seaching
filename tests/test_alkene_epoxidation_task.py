@@ -18,8 +18,17 @@ class AlkeneEpoxidationTaskTests(unittest.TestCase):
     def test_requires_primary_and_mechanistic_topic(self):
         self.assertTrue(task.matches_query(work("Electrocatalytic alkene epoxidation", "radical intermediate")))
         self.assertTrue(task.matches_query(work("Electrochemical oxidation of alkenes", "oxygen atom transfer through a radical intermediate")))
+        self.assertTrue(task.matches_query(work("Direct propylene epoxidation", "an electrocatalytic metal support interface")))
         self.assertFalse(task.matches_query(work("Alkene epoxidation", "catalyst mechanism")))
         self.assertFalse(task.matches_query(work("Electrocatalysis", "cation effect")))
 
+    def test_rejects_reverse_reaction_and_material_false_positive(self):
+        self.assertFalse(task.matches_query(work("Epoxide deoxygenation to alkenes", "electrochemical radical mechanism")))
+        self.assertFalse(task.matches_query(work("Epoxidized natural rubber dielectric composite", "interfacial electric field")))
+        self.assertFalse(task.matches_query(work("Cycloaddition of vinyl epoxides with alkenes", "radical mechanism and epoxidation")))
+
     def test_normalized_id_prefers_doi(self):
         self.assertEqual(task.normalized_id({"doi": "https://doi.org/10.1000/example"}), "doi:10.1000/example")
+
+    def test_dry_run_does_not_claim_send(self):
+        self.assertFalse(task.send_email("report", [work("Alkene epoxidation", "electrocatalysis")], "2026-11-02", True))
