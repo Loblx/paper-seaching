@@ -1,0 +1,35 @@
+name: 烯烃环氧化文献推送
+
+on:
+  schedule:
+    # UTC 02:30 = 北京时间 10:30
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send-digest:
+    name: 检索并发送烯烃环氧化文献
+    runs-on: ubuntu-latest
+    env:
+      QQ_EMAIL: ${{ secrets.QQ_EMAIL }}
+      QQ_EMAIL_AUTH_CODE: ${{ secrets.QQ_EMAIL_AUTH_CODE }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: pip
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+      - name: 生成并发送文献简报
+        run: python tasks/alkene-epoxidation/task.py
+      - name: 保存已推送文献历史
+        run: |
+          git config user.name "paper-seaching-bot"
+          git config user.email "41898282+paper-seaching-bot@users.noreply.github.com"
+          git add tasks/alkene-epoxidation/data/paper-history.json
+          git diff --cached --quiet || git commit -m "chore(alkene): record delivered papers"
+          git push
