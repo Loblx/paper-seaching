@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:36:34.021314+08:00",
+  "updated_at": "2026-11-02T17:43:35.622978+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -25,6 +25,36 @@
       "key": "doi:10.26434/chemrxiv.15005740/v1",
       "sent_on": "2026-11-02T00:36:34.021314+08:00",
       "title": "Electric-field promoted thermal oxidation of alkenes using immobilized iron porphyrin catalysts"
+    },
+    {
+      "key": "doi:10.1021/acscatal.6c01310",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "Electrochemical Oxygen-Atom Transfer to Alkenes and Pyridines with a Mn-Porphyrin Catalyst Using Water as the Source of Oxygen"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-70733-4",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "Chlorine radical-mediated electrochemical propylene epoxidation from seawater"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.10001814/v1",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "Tandem Electrocatalysis: Cathodic Epoxidation of Alkenes by a Manganese Salophen Catalyst"
+    },
+    {
+      "key": "doi:10.1021/jacs.5c17562",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "A High-Purity Ethylene Epoxide Stream Produced Using a Supported Electrocatalyst"
+    },
+    {
+      "key": "doi:10.1002/adsc.70402",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "Interfacial Modulation of Composite Structures for Activating Ag 3 PO 4 Toward Efficient and Stable Electrocatalytic Ethylene Epoxidation"
+    },
+    {
+      "key": "doi:10.1016/j.gresc.2026.07.001",
+      "sent_on": "2026-11-02T17:43:35.622978+08:00",
+      "title": "Visible-light induced site-selective C(sp3) –H epoxidation of amides"
     }
   ]
 }
