@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T01:09:32.885455",
+  "updated_at": "2026-11-03T23:34:10.517236",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -875,6 +875,11 @@
       "key": "doi:10.1016/j.indcrop.2026.124682",
       "sent_on": "2026-11-03",
       "title": "High-intensity natural sweeteners from four representative plants: Biosynthetic pathways, heterologous production, and molecular markers"
+    },
+    {
+      "key": "doi:10.3390/biom16111593",
+      "sent_on": "2026-11-03",
+      "title": "Metabolic Engineering of Saccharomyces cerevisiae for Betulinic Acid Biosynthesis Reveals Pitfalls of Mitochondrial Compartmentalization of the Mevalonate Pathway"
     }
   ]
 }
