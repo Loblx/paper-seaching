@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:43:35.622978+08:00",
+  "updated_at": "2026-11-03T17:47:05.607973+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -55,6 +55,36 @@
       "key": "doi:10.1016/j.gresc.2026.07.001",
       "sent_on": "2026-11-02T17:43:35.622978+08:00",
       "title": "Visible-light induced site-selective C(sp3) –H epoxidation of amides"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15005789/v1",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Programming Electrocatalytic Alkene Epoxidation via Potentiodynamic Control of Surface Oxygen"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-72987-4",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Sustained Direct Electro-epoxidation of Ethylene via a Strain-Gradient CuO–Ag Interface"
+    },
+    {
+      "key": "doi:10.26434/chemrxiv.15006222/v1",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Dynamic solid-liquid equilibrium controls propylene electrochemical epoxidation on silver-based catalysts"
+    },
+    {
+      "key": "doi:10.1002/ange.5568728",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Iron‐Catalyzed Anti‐Markovnikov Hydroxyazidation of Unactivated Alkenes"
+    },
+    {
+      "key": "doi:10.1002/anie.5568728",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Iron‐Catalyzed Anti‐Markovnikov Hydroxyazidation of Unactivated Alkenes"
+    },
+    {
+      "key": "doi:10.1002/anie.202524782",
+      "sent_on": "2026-11-03T17:47:05.607973+08:00",
+      "title": "Activation of Cyanate Anions by Phosphine Radical Cations Enables Formal Hydrocarbamoylation of Alkenes"
     }
   ]
 }
