@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:15:17.275948",
+  "updated_at": "2026-11-03T01:09:32.885455",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -870,6 +870,11 @@
       "key": "doi:10.1002/cbic.70572",
       "sent_on": "2026-11-01",
       "title": "Expression of Human CYP2D6 in Artificial Cells Based on Polymer‐Lipid Hybrid Vesicles"
+    },
+    {
+      "key": "doi:10.1016/j.indcrop.2026.124682",
+      "sent_on": "2026-11-03",
+      "title": "High-intensity natural sweeteners from four representative plants: Biosynthetic pathways, heterologous production, and molecular markers"
     }
   ]
 }
