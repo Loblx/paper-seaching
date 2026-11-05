@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T23:51:56.193784",
+  "updated_at": "2026-11-05T23:46:06.832160",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -885,6 +885,11 @@
       "key": "doi:10.64898/2026.10.31.760369",
       "sent_on": "2026-11-04",
       "title": "CYP123, a sterol C4-methyl oxidase, acts with CYP51 to initiate mycobacterial lanosterol catabolism"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c12504",
+      "sent_on": "2026-11-05",
+      "title": "Substrate Length Controls Atropopeptide Complexity and Triggers Excision-Driven Scaffold Hop to Diketopiperazine Alkaloids"
     }
   ]
 }
