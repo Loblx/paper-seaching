@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T17:34:02.379002+08:00",
+  "updated_at": "2026-11-05T17:41:58.501797+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -105,6 +105,21 @@
       "key": "doi:10.62110/sciencein.jmc.2025.1225",
       "sent_on": "2026-11-04T17:34:02.379002+08:00",
       "title": "Mononuclear Bipyridyl-Iron(III) hydroxide in Metal-Organic Framework for selective Alkene Oxidation"
+    },
+    {
+      "key": "doi:10.1021/jacs.6c16690",
+      "sent_on": "2026-11-05T17:41:58.501797+08:00",
+      "title": "Cu Single-Atom Sites for Electrochemical Cross-Coupling Epoxidation of Alkenes"
+    },
+    {
+      "key": "doi:10.1002/advs.202517229",
+      "sent_on": "2026-11-05T17:41:58.501797+08:00",
+      "title": "Crossing the Oxo‐Peroxo Wall for Selective Electrochemical Epoxidation"
+    },
+    {
+      "key": "doi:10.1021/jacs.5c18709",
+      "sent_on": "2026-11-05T17:41:58.501797+08:00",
+      "title": "Plasmon-Assisted Electrochemical Epoxidation using Water as an Oxidant"
     }
   ]
 }
