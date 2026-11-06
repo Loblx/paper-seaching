@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T17:41:58.501797+08:00",
+  "updated_at": "2026-11-06T17:35:58.926577+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -120,6 +120,21 @@
       "key": "doi:10.1021/jacs.5c18709",
       "sent_on": "2026-11-05T17:41:58.501797+08:00",
       "title": "Plasmon-Assisted Electrochemical Epoxidation using Water as an Oxidant"
+    },
+    {
+      "key": "doi:10.1002/anov.70007",
+      "sent_on": "2026-11-06T17:35:58.926577+08:00",
+      "title": "Catalytic Oxygen Atom Transfer Through Photochemical and Electrochemical Activation of O2 or H2O"
+    },
+    {
+      "key": "doi:10.1038/s41467-025-58486-y",
+      "sent_on": "2026-11-06T17:35:58.926577+08:00",
+      "title": "V activated electro-epoxidation catalyst in membrane electrode assembly system for the production of propylene oxide"
+    },
+    {
+      "key": "doi:10.1021/jacs.5c09330",
+      "sent_on": "2026-11-06T17:35:58.926577+08:00",
+      "title": "Porous Gold Nanoumbrellas with Adjustable Apical Angles for Selective Electrosynthesis of Styrene Epoxide from Styrene"
     }
   ]
 }
