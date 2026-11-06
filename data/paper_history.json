@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:46:06.832160",
+  "updated_at": "2026-11-06T23:24:10.572037",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -890,6 +890,26 @@
       "key": "doi:10.1021/jacs.6c12504",
       "sent_on": "2026-11-05",
       "title": "Substrate Length Controls Atropopeptide Complexity and Triggers Excision-Driven Scaffold Hop to Diketopiperazine Alkaloids"
+    },
+    {
+      "key": "doi:10.1002/anie.4076828",
+      "sent_on": "2026-11-06",
+      "title": "Resurrecting Robust CYP152 Peroxygenases for Versatile Biocatalysis"
+    },
+    {
+      "key": "doi:10.1002/anie.2505284",
+      "sent_on": "2026-11-06",
+      "title": "Intermolecular Carbon–Carbon Naphthalene Coupling Involves a Radical Mechanism Driven by Cytochrome P450 in Alternaria alternata"
+    },
+    {
+      "key": "doi:10.1002/biot.70324",
+      "sent_on": "2026-11-06",
+      "title": "Redirecting Metabolic Flux to Minimize By‐Product Formation Enables Efficient De Novo Biosynthesis of Chlorogenic Acid in Escherichia coli"
+    },
+    {
+      "key": "doi:10.1002/npp2.70064",
+      "sent_on": "2026-11-06",
+      "title": "Applications of nanocarrier‐delivered RNA interference in agricultural biological control (2009–2025)"
     }
   ]
 }
