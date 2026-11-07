@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T23:24:10.572037",
+  "updated_at": "2026-11-07T22:11:37.429043",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -910,6 +910,21 @@
       "key": "doi:10.1002/npp2.70064",
       "sent_on": "2026-11-06",
       "title": "Applications of nanocarrier‐delivered RNA interference in agricultural biological control (2009–2025)"
+    },
+    {
+      "key": "doi:10.1021/cbe.6c00087",
+      "sent_on": "2026-11-07",
+      "title": "Harnessing CYP71 Enzymes for Terpenoid Indole Alkaloid Production: A Synthetic Biology Perspective from Discovery to Application"
+    },
+    {
+      "key": "doi:10.1021/acscatal.6c07711",
+      "sent_on": "2026-11-07",
+      "title": "Bioinformatic-Guided Discovery of O -Dealkylation Activity in Cytochrome P450 Monooxygenases"
+    },
+    {
+      "key": "doi:10.1021/acscatal.6c06684",
+      "sent_on": "2026-11-07",
+      "title": "Unraveling Regio- and Stereoselectivity in Cyclopropane Fatty Acid Synthase (CFAS) Enzymes across Native and Non-native Lipid Substrates"
     }
   ]
 }
