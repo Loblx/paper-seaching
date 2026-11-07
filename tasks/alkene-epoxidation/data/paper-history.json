@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:35:58.926577+08:00",
+  "updated_at": "2026-11-07T16:59:44.052865+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -135,6 +135,21 @@
       "key": "doi:10.1021/jacs.5c09330",
       "sent_on": "2026-11-06T17:35:58.926577+08:00",
       "title": "Porous Gold Nanoumbrellas with Adjustable Apical Angles for Selective Electrosynthesis of Styrene Epoxide from Styrene"
+    },
+    {
+      "key": "doi:10.26599/nr.2025.94907832",
+      "sent_on": "2026-11-07T16:59:44.052865+08:00",
+      "title": "Recent progress in electrocatalytic olefin epoxidation: Catalytic microenvironment, mechanism and characterization technique"
+    },
+    {
+      "key": "doi:10.1021/acscatal.5c02783",
+      "sent_on": "2026-11-07T16:59:44.052865+08:00",
+      "title": "Unlocking the Synergistic Dual-Active Site Mechanism by Loading Pd Single Atom onto α-MnO 2 for Efficient Electrocatalytic Epoxidation"
+    },
+    {
+      "key": "doi:10.1021/jacs.4c16243",
+      "sent_on": "2026-11-07T16:59:44.052865+08:00",
+      "title": "Electrochemically Driven Selective Olefin Epoxidation by Cobalt–TAML Catalyst"
     }
   ]
 }
