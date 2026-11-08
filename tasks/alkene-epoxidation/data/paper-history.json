@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:59:44.052865+08:00",
+  "updated_at": "2026-11-08T17:17:04.089164+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -150,6 +150,21 @@
       "key": "doi:10.1021/jacs.4c16243",
       "sent_on": "2026-11-07T16:59:44.052865+08:00",
       "title": "Electrochemically Driven Selective Olefin Epoxidation by Cobalt–TAML Catalyst"
+    },
+    {
+      "key": "doi:10.1002/anie.202521921",
+      "sent_on": "2026-11-08T17:17:04.089164+08:00",
+      "title": "An Electrocatalytic/Heterogeneous Catalytic Cascade for Selective Production of Propylene Oxide via Anodic H 2 O 2 Generation"
+    },
+    {
+      "key": "doi:10.1021/acssuschemeng.5c01296",
+      "sent_on": "2026-11-08T17:17:04.089164+08:00",
+      "title": "Pathway-Dependent Ion Effects for Electrocatalytic Olefin Epoxidation"
+    },
+    {
+      "key": "doi:10.1038/s41467-025-57223-9",
+      "sent_on": "2026-11-08T17:17:04.089164+08:00",
+      "title": "Electrochemical epoxidation enhanced by C2H4 activation and hydroxyl generation at the Ag/SnO2 interface"
     }
   ]
 }
