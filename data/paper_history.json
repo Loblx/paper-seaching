@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:11:37.429043",
+  "updated_at": "2026-11-08T22:20:23.284496",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -925,6 +925,21 @@
       "key": "doi:10.1021/acscatal.6c06684",
       "sent_on": "2026-11-07",
       "title": "Unraveling Regio- and Stereoselectivity in Cyclopropane Fatty Acid Synthase (CFAS) Enzymes across Native and Non-native Lipid Substrates"
+    },
+    {
+      "key": "doi:10.1038/s41538-026-01227-2",
+      "sent_on": "2026-11-08",
+      "title": "Integrated metabolomic and transcriptomic analysis of oligoproanthocyanidins biotransformation by rhizosphere filamentous fungi from tea plant (Camellia sinensis)"
+    },
+    {
+      "key": "doi:10.1038/s41467-026-79097-1",
+      "sent_on": "2026-11-08",
+      "title": "Genome-wide CRISPR screening in Spodoptera frugiperda reveals the determinants of insecticide activation and sensitivity"
+    },
+    {
+      "key": "doi:10.1016/j.jfutfo.2026.08.013",
+      "sent_on": "2026-11-08",
+      "title": "Research Progress of Synthetic Biology Technology in the Development and Utilization of Food and Medicine Homologous Resources"
     }
   ]
 }
