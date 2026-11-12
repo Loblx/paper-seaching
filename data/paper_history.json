@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:38:05.794063",
+  "updated_at": "2026-11-12T00:55:34.354436",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -940,6 +940,31 @@
       "key": "doi:10.1016/j.jfutfo.2026.08.013",
       "sent_on": "2026-11-08",
       "title": "Research Progress of Synthetic Biology Technology in the Development and Utilization of Food and Medicine Homologous Resources"
+    },
+    {
+      "key": "doi:10.3390/molecules31122189",
+      "sent_on": "2026-11-12",
+      "title": "P450 Fusion Protein Expressed in E. coli for Regioselective Hydroxylation of Flavonoids"
+    },
+    {
+      "key": "doi:10.3390/biology15151242",
+      "sent_on": "2026-11-12",
+      "title": "Four Decades of Cytochrome P450 Research in Africa: A Historical Overview of Scientific Contributions, Research Trends, and Future Directions"
+    },
+    {
+      "key": "doi:10.3390/jof12090677",
+      "sent_on": "2026-11-12",
+      "title": "Comparative Phylogenomics Reveals Conserved Protoilludene Synthase Neighbourhoods and Unevenly Distributed Biosynthetic Gene Cluster Families in Armillaria"
+    },
+    {
+      "key": "doi:10.1021/acs.jafc.6c08619",
+      "sent_on": "2026-11-12",
+      "title": "Oosporein in Phlebia centrifuga : Prediction of Key Enzymes by a Combination of Multi-Omics and Molecular Dynamics"
+    },
+    {
+      "key": "doi:10.3390/metabo16050313",
+      "sent_on": "2026-11-12",
+      "title": "Physiology, Metabolomics, and Transcriptomics Reveal Effects of AMF and Chaetomium globosum Co-Inoculation on Growth and Medicinal Compounds in Astragalus membranaceus"
     }
   ]
 }
