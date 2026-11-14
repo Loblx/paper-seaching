@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:46:26.193433",
+  "updated_at": "2026-11-14T22:39:41.576216",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -970,6 +970,16 @@
       "key": "doi:10.1016/j.temicr.2026.100114",
       "sent_on": "2026-11-13",
       "title": "Gut Microbiota of Greater Wax Moth Larvae (Galleria mellonella L.) in Plastic and Microplastic Biodegradation: Evidence Strength, Mechanisms, and Methodological Gaps"
+    },
+    {
+      "key": "doi:10.1016/j.ijantimicag.2026.108069",
+      "sent_on": "2026-11-14",
+      "title": "Iron deficiency and the fungal protein Dde1 contribute to azole susceptibility in Saccharomyces cerevisiae and Candida glabrata"
+    },
+    {
+      "key": "doi:10.1016/j.nxnano.2026.100929",
+      "sent_on": "2026-11-14",
+      "title": "Acetaminophen-loaded nanomaterials for cancer therapy: Recent advances and future perspectives"
     }
   ]
 }
