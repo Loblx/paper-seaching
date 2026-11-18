@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T01:56:52.413596",
+  "updated_at": "2026-11-18T01:15:28.229461",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -985,6 +985,11 @@
       "key": "doi:10.64898/2026.11.11.765817",
       "sent_on": "2026-11-15",
       "title": "Chromosome-level genomics and cross-species enzyme screening enable high-titer bakuchiol production in Yarrowia lipolytica"
+    },
+    {
+      "key": "doi:10.3389/fpls.2026.1907797",
+      "sent_on": "2026-11-18",
+      "title": "Genome assembly of horsetail milkweed (Asclepias subverticillata) reveals candidate defensive-metabolite pathways in Apocynaceae"
     }
   ]
 }
