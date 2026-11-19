@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:15:28.229461",
+  "updated_at": "2026-11-19T00:43:26.439706",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -990,6 +990,11 @@
       "key": "doi:10.3389/fpls.2026.1907797",
       "sent_on": "2026-11-18",
       "title": "Genome assembly of horsetail milkweed (Asclepias subverticillata) reveals candidate defensive-metabolite pathways in Apocynaceae"
+    },
+    {
+      "key": "doi:10.3390/ijms27219572",
+      "sent_on": "2026-11-19",
+      "title": "Optimizing Nystatin Biosynthesis Through Targeted Manipulation of nysL and nysGtf in Streptomyces noursei"
     }
   ]
 }
