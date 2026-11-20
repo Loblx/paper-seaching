@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:43:26.439706",
+  "updated_at": "2026-11-20T00:46:45.034435",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -995,6 +995,11 @@
       "key": "doi:10.3390/ijms27219572",
       "sent_on": "2026-11-19",
       "title": "Optimizing Nystatin Biosynthesis Through Targeted Manipulation of nysL and nysGtf in Streptomyces noursei"
+    },
+    {
+      "key": "doi:10.1371/journal.pone.0352405",
+      "sent_on": "2026-11-20",
+      "title": "Structure-based computational screening of cyclotides as putative CYP19A1-binding scaffolds for modulation of estrogen biosynthesis in adenomyosis"
     }
   ]
 }
