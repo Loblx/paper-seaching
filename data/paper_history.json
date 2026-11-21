@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:06:19.021350",
+  "updated_at": "2026-11-21T23:31:24.832361",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -1015,6 +1015,21 @@
       "key": "doi:10.3389/fbioe.2026.2011127",
       "sent_on": "2026-11-21",
       "title": "A streamlined, protoplast-purification-free transformation system for Ganoderma lucidum enabled by VinoTaste Pro"
+    },
+    {
+      "key": "doi:10.21203/rs.3.rs-11416052/v1",
+      "sent_on": "2026-11-21",
+      "title": "Assessing thermostable peroxygenase cytochrome P450 enzymes as biocatalysts for selective oxidations"
+    },
+    {
+      "key": "doi:10.64898/2026.11.12.766139",
+      "sent_on": "2026-11-21",
+      "title": "Discovery of the β-Carboline Biosynthetic Pathway Enables In Planta Reconstruction of the Amazonian Brew Ayahuasca"
+    },
+    {
+      "key": "doi:10.1021/acscentsci.6c01238",
+      "sent_on": "2026-11-21",
+      "title": "Metal Coordination Dynamics Governs Selective Epoxidation in Hyoscyamine 6β-Hydroxylase: Integrated Experimental and Computational Insights"
     }
   ]
 }
