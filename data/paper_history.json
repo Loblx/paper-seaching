@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T00:46:45.034435",
+  "updated_at": "2026-11-21T00:06:19.021350",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -1000,6 +1000,21 @@
       "key": "doi:10.1371/journal.pone.0352405",
       "sent_on": "2026-11-20",
       "title": "Structure-based computational screening of cyclotides as putative CYP19A1-binding scaffolds for modulation of estrogen biosynthesis in adenomyosis"
+    },
+    {
+      "key": "doi:10.1111/1751-7915.70488",
+      "sent_on": "2026-11-21",
+      "title": "Engineering a Thermostable Cytochrome P450 Enzyme from Thermomonospora catenispora for the Hydrogen Peroxide‐Driven Terminal Hydroxylation of Farnesol and Fatty Acids"
+    },
+    {
+      "key": "doi:10.1007/s10532-026-10418-3",
+      "sent_on": "2026-11-21",
+      "title": "Genomic insights and enzymatic responses to kerosene exposure of the marine yeast Yarrowia lipolytica LMS 24 B"
+    },
+    {
+      "key": "doi:10.3389/fbioe.2026.2011127",
+      "sent_on": "2026-11-21",
+      "title": "A streamlined, protoplast-purification-free transformation system for Ganoderma lucidum enabled by VinoTaste Pro"
     }
   ]
 }
