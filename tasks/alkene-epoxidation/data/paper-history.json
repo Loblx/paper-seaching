@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:59:11.649336+08:00",
+  "updated_at": "2026-11-25T19:30:39.243070+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -180,6 +180,16 @@
       "key": "doi:10.1021/acsami.4c10085",
       "sent_on": "2026-11-09T17:59:11.649336+08:00",
       "title": "Electro-Epoxidation of Propylene in the Gas Phase with Solid-Polymer-Electrolyte Water Electrolysis"
+    },
+    {
+      "key": "doi:10.1002/advs.77922",
+      "sent_on": "2026-11-25T19:30:39.243070+08:00",
+      "title": "Interface‐Enhanced Electrochemical Epoxidation Over a Core‐Shell Nanozeolite TS‐1@Mn‐N‐C Catalyst"
+    },
+    {
+      "key": "doi:10.1039/d6sc00492j",
+      "sent_on": "2026-11-25T19:30:39.243070+08:00",
+      "title": "Non-ideal stoichiometry and thermochemistry of aqueous iridium oxide nanoparticles in proton-coupled electron transfer and oxygen-atom transfer"
     }
   ]
 }
