@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:30:39.243070+08:00",
+  "updated_at": "2026-11-26T19:13:08.751269+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -190,6 +190,11 @@
       "key": "doi:10.1039/d6sc00492j",
       "sent_on": "2026-11-25T19:30:39.243070+08:00",
       "title": "Non-ideal stoichiometry and thermochemistry of aqueous iridium oxide nanoparticles in proton-coupled electron transfer and oxygen-atom transfer"
+    },
+    {
+      "key": "doi:10.1039/d5gc06899a",
+      "sent_on": "2026-11-26T19:13:08.751269+08:00",
+      "title": "A one-pot organocatalytic process for the synthesis of cyclic carbonates from CO 2 and alkenes using cumene hydroperoxide as a green oxidant"
     }
   ]
 }
