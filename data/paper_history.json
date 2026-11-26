@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:43:21.431408",
+  "updated_at": "2026-11-26T01:54:12.663591",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -1055,6 +1055,26 @@
       "key": "doi:10.1002/advs.78798",
       "sent_on": "2026-11-25",
       "title": "Discovery and Biocatalytic Application of Legume Isoflavonoid 2'/3'‐Hydroxylases for Astrapterocarpan Pathway"
+    },
+    {
+      "key": "doi:10.64898/2026.11.12.766315",
+      "sent_on": "2026-11-26",
+      "title": "De Novo Design of C–H Hydroxylation Enzymes with Programmed Selectivities"
+    },
+    {
+      "key": "doi:10.7554/elife.105333.2",
+      "sent_on": "2026-11-26",
+      "title": "SATAY-based chemogenomic screening uncovers antifungal resistance mechanisms and key determinants of ATI-2307 and chitosan sensitivity"
+    },
+    {
+      "key": "doi:10.3389/fbioe.2026.2013853",
+      "sent_on": "2026-11-26",
+      "title": "AI and biofoundries in metabolic engineering: linking biological data, predictions, and experimental validation"
+    },
+    {
+      "key": "doi:10.1002/aic.70763",
+      "sent_on": "2026-11-26",
+      "title": "Metabolic engineering of Yarrowia lipolytica for efficient production of glucaric acid"
     }
   ]
 }
