@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:13:08.751269+08:00",
+  "updated_at": "2026-11-27T19:04:48.265008+08:00",
   "papers": [
     {
       "key": "doi:10.48550/arxiv.2608.14351",
@@ -195,6 +195,11 @@
       "key": "doi:10.1039/d5gc06899a",
       "sent_on": "2026-11-26T19:13:08.751269+08:00",
       "title": "A one-pot organocatalytic process for the synthesis of cyclic carbonates from CO 2 and alkenes using cumene hydroperoxide as a green oxidant"
+    },
+    {
+      "key": "doi:10.1021/acscatal.6c07626",
+      "sent_on": "2026-11-27T19:04:48.265008+08:00",
+      "title": "Lewis Acid-Directed Oxygen-Down Interfacial Water Regulation Stabilizes Local pH for Robust High-Current-Density Propylene Epoxidation"
     }
   ]
 }
