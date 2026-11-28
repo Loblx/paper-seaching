@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:51:49.254428",
+  "updated_at": "2026-11-28T01:33:57.451962",
   "papers": [
     {
       "key": "doi:10.3390/plants15111741",
@@ -1085,6 +1085,31 @@
       "key": "doi:10.5281/zenodo.21789937",
       "sent_on": "2026-11-27",
       "title": "Comparative Genomics of Plant and Mushroom Pathogenic Fungi for Identification of Conserved Virulence Factors"
+    },
+    {
+      "key": "doi:10.1080/17518253.2026.2766668",
+      "sent_on": "2026-11-28",
+      "title": "Enzyme-catalyzed synthesis of anticancer agents: a green chemistry approach toward sustainable drug development"
+    },
+    {
+      "key": "doi:10.31224/8043",
+      "sent_on": "2026-11-28",
+      "title": "Machine Learning methods for Small Wet-Lab Data Challenges in Enzyme Engineering"
+    },
+    {
+      "key": "doi:10.1093/ismejo/wrag294",
+      "sent_on": "2026-11-28",
+      "title": "Community-level bisphenol A biotransformation in an activated sludge microcosm"
+    },
+    {
+      "key": "doi:10.1016/j.nxmate.2026.102774",
+      "sent_on": "2026-11-28",
+      "title": "Design, synthesis, biological evaluation, and in silico studies of thiazole-based alkyl ester derivatives as potential antimicrobial agents"
+    },
+    {
+      "key": "doi:10.3897/imafungus.17.179417",
+      "sent_on": "2026-11-28",
+      "title": "Ecological genomics of saprotrophy to biotrophy transitions in the genus Clitopilus (Fr. ex Rabenh.) P. Kumm. (Agaricales, Entolomataceae)"
     }
   ]
 }
